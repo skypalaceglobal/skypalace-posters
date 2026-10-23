@@ -20,8 +20,10 @@ body = re.sub(r"<helmet>.*?</helmet>", "", body, flags=re.S)
 body = re.sub(r"/_blob/([0-9a-f]{32})", lambda m: (blob_dir / f"{m.group(1)}.png").as_uri(), body)
 # Web fonts (e.g. Google Fonts) may be loaded with @import inside the poster's
 # <style>; @import only works at the top of a stylesheet, so move it there.
-imports = "".join(re.findall(r"@import[^;]+;", styles))
-styles = re.sub(r"@import[^;]+;", "", styles)
+# (Google Fonts URLs contain ';' inside url(...), so match the url() as a whole.)
+IMPORT_RE = r"""@import\s+(?:url\(\s*(?:'[^']*'|"[^"]*"|[^)]*)\s*\)|'[^']*'|"[^"]*")[^;]*;"""
+imports = "".join(re.findall(IMPORT_RE, styles))
+styles = re.sub(IMPORT_RE, "", styles)
 page = f"""<!doctype html><html><head><meta charset="utf-8">
 <style>{imports} html,body{{margin:0;padding:0;background:#fff}} {styles}
 body{{font-family:'Inter','Noto Color Emoji',sans-serif}}</style></head>
