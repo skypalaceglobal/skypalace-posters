@@ -1,0 +1,60 @@
+name: Render posters
+
+# Claude uploads poster HTML to render/YYYY/MM/<name>.dc.html (text).
+# This workflow turns each one into posters/YYYY/MM/<name>.jpg (1080x1350 JPEG)
+# and saves it in the repo, so Metricool can use the public raw.githubusercontent.com link.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'render/**'
+      - 'tools/**'
+      - '.github/workflows/render-posters.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: render-posters
+  cancel-in-progress: false
+
+jobs:
+  render:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install fonts
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq fonts-inter fonts-noto-color-emoji fonts-noto-core
+          fc-cache -f
+
+      - name: Install browser
+        run: |
+          pip install -q playwright
+          python -m playwright install --with-deps chromium
+
+      - name: Render new posters
+        run: |
+          shopt -s globstar nullglob
+          for f in render/**/*.dc.html; do
+            rel="${f#render/}"
+            out="posters/${rel%.dc.html}.jpg"
+            if [ -f "$out" ] && [ "${{ github.event_name }}" != "workflow_dispatch" ]; then
+              echo "already rendered: $out"; continue
+            fi
+            python tools/render.py "$f" "$out" tools/blobs
+          done
+
+      - name: Save JPEGs to the repo
+        run: |
+          git config user.name "skypalace-poster-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add posters
+          if git diff --cached --quiet; then echo "nothing new"; exit 0; fi
+          git commit -m "Render posters"
+          git pull --rebase origin main
+          git push origin main
