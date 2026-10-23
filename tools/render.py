@@ -18,8 +18,12 @@ body = re.search(r"<x-dc>(.*)</x-dc>", html, re.S).group(1)
 styles = "".join(re.findall(r"<style>(.*?)</style>", body, re.S))
 body = re.sub(r"<helmet>.*?</helmet>", "", body, flags=re.S)
 body = re.sub(r"/_blob/([0-9a-f]{32})", lambda m: (blob_dir / f"{m.group(1)}.png").as_uri(), body)
+# Web fonts (e.g. Google Fonts) may be loaded with @import inside the poster's
+# <style>; @import only works at the top of a stylesheet, so move it there.
+imports = "".join(re.findall(r"@import[^;]+;", styles))
+styles = re.sub(r"@import[^;]+;", "", styles)
 page = f"""<!doctype html><html><head><meta charset="utf-8">
-<style>html,body{{margin:0;padding:0;background:#fff}} {styles}
+<style>{imports} html,body{{margin:0;padding:0;background:#fff}} {styles}
 body{{font-family:'Inter','Noto Color Emoji',sans-serif}}</style></head>
 <body>{body}</body></html>"""
 outp.parent.mkdir(parents=True, exist_ok=True)
@@ -30,7 +34,16 @@ with sync_playwright() as p:
     b = p.chromium.launch()
     pg = b.new_page(viewport={"width": 1080, "height": 1350}, device_scale_factor=1)
     pg.goto(tmp.resolve().as_uri())
-    pg.wait_for_timeout(800)
+    # Wait for web fonts and remote images (free stock photos) to finish loading.
+    try:
+        pg.wait_for_load_state("networkidle", timeout=20000)
+    except Exception:
+        pass
+    try:
+        pg.evaluate("document.fonts.ready.then(() => true)")
+    except Exception:
+        pass
+    pg.wait_for_timeout(1200)
     pg.screenshot(path=str(outp), type="jpeg", quality=92,
                   clip={"x": 0, "y": 0, "width": 1080, "height": 1350})
     b.close()
