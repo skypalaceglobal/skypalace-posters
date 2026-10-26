@@ -1,0 +1,90 @@
+<x-dc>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Righteous&family=JetBrains+Mono:wght@700;800&family=Lexend:wght@500;600;700;800;900&display=swap');
+.a-root{width:1080px;height:1350px;position:relative;overflow:hidden;font-family:'Lexend','Inter','Noto Color Emoji',sans-serif;color:#fff;box-sizing:border-box;background:linear-gradient(180deg,#071640 0%,#0B2A78 46%,#123C9E 70%,#0A1F5C 100%)}
+.a-root *{box-sizing:border-box}
+.rt{font-family:'Righteous','Inter',sans-serif;font-weight:400}
+.board{position:absolute;left:44px;top:520px;width:992px;background:linear-gradient(180deg,#0A1330,#060C22);border-radius:26px;padding:22px 24px 18px;border:3px solid #2C5BD6;box-shadow:0 0 0 8px rgba(63,208,255,.18),0 30px 70px rgba(0,0,0,.55)}
+.bhead{display:flex;align-items:center;font-family:'JetBrains Mono','Inter',monospace;font-weight:800;font-size:20px;letter-spacing:2px;color:#7FB4FF;margin:0 0 12px 34px}
+.row{display:flex;align-items:center;gap:0;margin-bottom:10px;padding:6px 0 6px 6px;border-radius:14px}
+.hlrow{background:rgba(255,212,59,.10);border:2px dashed rgba(255,212,59,.55);margin-top:4px}
+.dot{flex:none;width:16px;height:16px;border-radius:50%;margin-right:12px}
+.grp{display:inline-flex;gap:3px;margin-right:18px}
+.t{position:relative;display:inline-flex;align-items:center;justify-content:center;width:30px;height:48px;border-radius:5px;background:linear-gradient(180deg,#1A2550 0%,#141E44 49%,#0B1433 51%,#111B3E 100%);font-family:'JetBrains Mono','Inter',monospace;font-weight:800;font-size:28px;color:#F2F7FF;box-shadow:inset 0 -2px 0 rgba(0,0,0,.5)}
+.t:after{content:"";position:absolute;left:0;right:0;top:50%;height:2px;background:rgba(0,0,0,.65)}
+.th{color:#FFD43B}
+</style>
+<div class="a-root">
+  <!-- terminal window with sky + skyline -->
+  <div style="position:absolute;left:0;top:0;width:1080px;height:500px;background:linear-gradient(180deg,#0B2A78 0%,#2F6BFF 45%,#7FC8FF 80%,#C9EBFF 100%)"></div>
+  <svg style="position:absolute;left:0;top:300px" width="1080" height="210" viewBox="0 0 1080 210" xmlns="http://www.w3.org/2000/svg">
+    <g fill="#0E2F86" opacity=".9">
+      <rect x="40" y="120" width="60" height="90"/><rect x="110" y="90" width="44" height="120"/><rect x="165" y="130" width="70" height="80"/>
+      <rect x="250" y="70" width="38" height="140"/><rect x="300" y="110" width="60" height="100"/>
+      <path d="M520 210 L528 40 L534 0 L540 40 L548 210 Z"/>
+      <rect x="470" y="120" width="40" height="90"/><rect x="560" y="100" width="50" height="110"/>
+      <rect x="640" y="130" width="70" height="80"/><rect x="720" y="80" width="46" height="130"/>
+      <path d="M790 210 L790 110 Q830 60 870 110 L870 210 Z"/>
+      <rect x="890" y="120" width="60" height="90"/><rect x="960" y="95" width="80" height="115"/>
+    </g>
+    <rect x="0" y="196" width="1080" height="14" fill="#0A1F5C"/>
+  </svg>
+  <!-- window mullions -->
+  <div style="position:absolute;left:0;top:0;width:1080px;height:510px;background:repeating-linear-gradient(90deg,transparent 0 262px,#061436 262px 270px)"></div>
+  <div style="position:absolute;left:0;top:500px;width:1080px;height:14px;background:#061436"></div>
+  <!-- plane -->
+  <svg style="position:absolute;left:600px;top:150px;transform:rotate(-12deg)" width="380" height="140" viewBox="0 0 380 140" xmlns="http://www.w3.org/2000/svg">
+    <path d="M10 76 Q20 60 60 60 L290 58 Q340 58 370 70 Q340 84 290 84 L60 84 Q20 84 10 76 Z" fill="#F4FAFF"/>
+    <path d="M150 62 L230 6 L258 6 L215 62 Z" fill="#DCEBFF"/>
+    <path d="M160 82 L238 134 L264 134 L222 82 Z" fill="#C7DDFF"/>
+    <path d="M30 62 L14 22 L40 22 L70 62 Z" fill="#1E6BFF"/>
+    <g fill="#1E6BFF">
+      <circle cx="270" cy="70" r="4"/><circle cx="252" cy="70" r="4"/><circle cx="234" cy="70" r="4"/><circle cx="216" cy="70" r="4"/><circle cx="198" cy="70" r="4"/><circle cx="180" cy="70" r="4"/><circle cx="162" cy="70" r="4"/><circle cx="144" cy="70" r="4"/><circle cx="126" cy="70" r="4"/><circle cx="108" cy="70" r="4"/>
+    </g>
+    <path d="M330 64 Q352 64 362 70 L340 70 Z" fill="#0B2A78"/>
+  </svg>
+  <div style="position:absolute;left:560px;top:250px;width:120px;height:4px;border-radius:4px;background:linear-gradient(90deg,transparent,rgba(255,255,255,.9));transform:rotate(-12deg)"></div>
+
+  <!-- chips + logo -->
+  <div style="position:absolute;left:52px;top:44px">
+    <span style="display:inline-block;background:#FFD43B;color:#0B1F57;border-radius:999px;padding:9px 18px;font-weight:900;font-size:22px;margin-right:10px">🛬 TRENDING AT DXB</span>
+  </div>
+  <div style="position:absolute;right:48px;top:30px;background:#FFFFFF;border-radius:18px;padding:8px 12px;box-shadow:0 10px 30px rgba(0,0,0,.3)">
+    <img src="/_blob/2c1af597be802623e18d9425346d63b7" style="height:84px;display:block">
+  </div>
+
+  <div class="fit" style="position:absolute;left:52px;top:118px;width:620px;height:250px;overflow:hidden"><div class="rt" style="font-size:104px;line-height:1.02;text-shadow:0 6px 24px rgba(4,20,70,.55)">
+    <div style="white-space:nowrap">Arrivals</div><div style="white-space:nowrap">are back</div></div></div>
+
+  <div style="position:absolute;left:44px;top:452px;width:992px;height:56px;display:flex;align-items:center;justify-content:center">
+    <div class="fit" style="width:960px;height:56px;overflow:hidden;display:flex;justify-content:center"><div style="background:#061436;border:2px solid #3FD0FF;border-radius:999px;padding:8px 28px;font-size:28px;font-weight:700;color:#DFF3FF;white-space:nowrap">Flights from Europe are returning to Dubai this week 🇦🇪</div></div>
+  </div>
+
+  <div class="board">
+    <div class="bhead"><span style="width:405px">FROM</span><span style="width:262px">DATE</span><span>STATUS</span></div>
+<div id="rows"></div>
+  </div>
+
+  <div class="fit" style="position:absolute;left:60px;top:1000px;width:960px;height:120px;overflow:hidden"><div style="text-align:center">
+    <div class="rt" style="font-size:52px;line-height:1.15;white-space:nowrap"><span style="background:linear-gradient(90deg,#FFFFFF,#9FE6FF 60%,#3FD0FF);-webkit-background-clip:text;background-clip:text;color:transparent">Who's flying in to see you?</span> 👀</div>
+    <div style="font-size:30px;font-weight:600;color:#CFE6FF;margin-top:6px;white-space:nowrap">We sort Dubai visit visas &amp; tour packages for your family.</div>
+  </div></div>
+
+  <div class="fit" style="position:absolute;left:150px;top:1140px;width:780px;height:64px;overflow:hidden;display:flex;justify-content:center"><div style="background:#FFD43B;color:#0B1F57;border-radius:18px;padding:11px 28px;font-size:31px;font-weight:900;white-space:nowrap;box-shadow:0 12px 30px rgba(0,0,0,.35)">💬 WhatsApp "ARRIVALS" +971 52 792 3915</div></div>
+
+  <div style="position:absolute;left:0;bottom:0;width:1080px;height:124px;background:#050F33;padding:14px 60px;display:flex;flex-direction:column;justify-content:center;gap:8px;font-family:'Inter','Noto Color Emoji',sans-serif">
+    <div style="font-size:28px;font-weight:900;white-space:nowrap;text-align:center">📞 +971 52 792 3915 · +971 58 507 8786 · +971 52 646 2287</div>
+    <div style="font-size:21px;font-weight:700;white-space:nowrap;color:#7FDBFF;text-align:center">🌐 www.skypalacetourism.com · ✉️ info@skypalacetourism.com · 📸 @skypalaceglobal</div>
+  </div>
+</div>
+<script>
+(function(){var R=[["ATHENS","23 OCT","BACK","#3FD0FF"],["MUNICH","25 OCT","BACK","#3FD0FF"],["FRANKFURT","26 OCT","TODAY","#FFD43B"],["ZURICH","27 OCT","SOON","#9FC8FF"],["YOUR FAMILY","ANY DAY","WELCOME","#FFD43B"]],W=[11,7,7],h="";
+R.forEach(function(r,i){var hl=i==4;h+='<div class="row'+(hl?' hlrow':'')+'"><span class="dot" style="background:'+r[3]+';box-shadow:0 0 14px '+r[3]+'"></span>';
+for(var k=0;k<3;k++){var s=r[k];while(s.length<W[k])s+=" ";h+='<span class="grp">';for(var j=0;j<s.length;j++){h+='<span class="t'+(hl?' th':'')+'">'+(s[j]==" "?"&nbsp;":s[j])+'</span>';}h+='</span>';}
+h+='</div>';});document.getElementById("rows").innerHTML=h;})();
+</script>
+<script>
+(function(){function fit(){document.querySelectorAll('.fit').forEach(function(w){var c=w.firstElementChild;if(!c)return;var z=1;c.style.zoom=1;while((w.scrollWidth>w.clientWidth+1||w.scrollHeight>w.clientHeight+1)&&z>0.45){z-=0.02;c.style.zoom=z;}});}
+fit();if(document.fonts&&document.fonts.ready){document.fonts.ready.then(function(){fit();setTimeout(fit,400);});}window.addEventListener('load',function(){setTimeout(fit,100);setTimeout(fit,900);});})();
+</script>
+</x-dc>
