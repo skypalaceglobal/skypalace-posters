@@ -20,3 +20,12 @@ Private note to avoid repeating topics/formats in daily video ideas. One section
 6. PAL Manila–Dubai resumed + OFW Serbisyo Caravan 7 Nov — Taglish walk-and-talk (2 updates)
 7. Dubai Safari Park Season 8 (6 zones, Al Warqa) — "Zoom in" interactive reveal
 Note: Saudi flights disrupted (late Oct) — avoid Saudi/Riyadh trip content until normal.
+
+## 2026-10-26 (replacement set — owner asked for VISA + FREE ZONE LICENCE content; owner said tourism set was "not good")
+1. Dubai visit visa sponsor salary tiers (4K family / 8K relatives / 15K friends; 30/60/90 days, 120/yr) — reply-to-comment Q&A
+2. Expanded UAE visa on arrival (new nationalities + residency countries) — green-screen eligibility checklist
+3. Dubai tourist visa approval in 48 hours (GDRFA, via tourism offices) — POV text timeline
+4. UAE jobseeker visa (no sponsor, 60/90/120 days, skill levels 1–3) — "3 things you didn't know"
+5. Free zone → Dubai mainland dual licence (Exec Council Res. 11/2025, DET branch) — whiteboard explainer
+6. Free zone ≠ zero tax (0% qualifying vs 9% mainland, separate records) — myth vs fact
+7. Company transfer between jurisdictions without liquidation (amended Commercial Companies Law) — before/after split screen
