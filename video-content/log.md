@@ -29,3 +29,13 @@ Note: Saudi flights disrupted (late Oct) — avoid Saudi/Riyadh trip content unt
 5. Free zone → Dubai mainland dual licence (Exec Council Res. 11/2025, DET branch) — whiteboard explainer
 6. Free zone ≠ zero tax (0% qualifying vs 9% mainland, separate records) — myth vs fact
 7. Company transfer between jurisdictions without liquidation (amended Commercial Companies Law) — before/after split screen
+Owner then asked for the set in MALAYALAM (sent).
+
+## 2026-10-26 (extra — owner asked: "cafeteria dubai licence"; delivered in Malayalam as a 7-part series)
+1. 6 steps to open a cafeteria in Dubai (DET → Ejari → DM layout → fit-out/inspection → food permit → staff visas) — checklist
+2. Local sponsor? / free zone cafeteria? — myth vs fact
+3. Don't sign the shop lease before landlord letter + DM layout approval — warning video
+4. Staff needs: visa, medical, food-handler health card — "3 things"
+5. What is a PIC (Person in Charge, food safety) — Q&A
+6. Empty shop → first chai (client cafeteria journey) — timelapse mini vlog
+7. Street interview with cafeteria owners (Karama/Deira/Bur Dubai) — vox pop
