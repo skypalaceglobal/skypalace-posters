@@ -10,3 +10,13 @@ Private note to avoid repeating topics/formats in daily video ideas. One section
 5. Global Village Season 31 timings & rules — myth vs fact
 6. Riyadh Season 2026 opened 21 Oct (weekend trip from UAE) — green-screen over headline
 7. Diwali in Dubai (2–12 Nov) + DSF (4 Dec–17 Jan) + Air India Express winter flights; family visit visa — "Yes… but" split-screen trend
+
+## 2026-10-26
+1. Etihad Rail Dubai (Al Yalayis) → Abu Dhabi train day trip — timestamp day-trip vlog
+2. Emirates daily A380 Dubai–Delhi from 25 Oct — guess/quiz reveal
+3. Dubai Miracle Garden Season 15 + free resident birthday tickets — "How to catch me" trap trend
+4. Sheikh Zayed Festival opens 30 Oct (Al Wathba, Saturday fireworks) — weekend itinerary
+5. Indian passport centres: 4 closed from 22 Oct, 12 open — reply-to-comment Q&A
+6. PAL Manila–Dubai resumed + OFW Serbisyo Caravan 7 Nov — Taglish walk-and-talk (2 updates)
+7. Dubai Safari Park Season 8 (6 zones, Al Warqa) — "Zoom in" interactive reveal
+Note: Saudi flights disrupted (late Oct) — avoid Saudi/Riyadh trip content until normal.
