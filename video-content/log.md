@@ -39,3 +39,12 @@ Owner then asked for the set in MALAYALAM (sent).
 5. What is a PIC (Person in Charge, food safety) — Q&A
 6. Empty shop → first chai (client cafeteria journey) — timelapse mini vlog
 7. Street interview with cafeteria owners (Karama/Deira/Bur Dubai) — vox pop
+
+## 2026-10-27
+1. Dubai Gold District 24K gold walkway (opening ~end 2026) + Guinness 16.514 kg gold jhumka — "sounds fake but it's real" on-location reveal
+2. Philippine Consulate Dubai e-visa launched 26 Oct (Indians 14 days visa-free) — flowchart "Do you need a visa?"
+3. Thailand visa-free cut to 30 days + Air India Express Kochi–Bangkok direct from 25 Oct — "Things you should definitely ghost" sheet-ghost trend
+4. Mumbai→Navi Mumbai international shift postponed to March 2027; Emirates stays at BOM — panicking friend vs calm agent skit
+5. Schengen delays (45–60 days) → National Day alternatives (Georgia, Armenia, Azerbaijan, Uzbekistan, Vietnam, Malaysia, Maldives, Seychelles) — "This or That" game
+6. Guggenheim Abu Dhabi opens 11 Dec (free 60+/under 18/UAE students) → parents' December visit — calendar-flip planner
+7. UAE winter early bookings up 25–30% (early = save 15–20%) — "My reaction to ___" escalating meter trend
