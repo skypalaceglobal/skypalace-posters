@@ -48,3 +48,13 @@ Owner then asked for the set in MALAYALAM (sent).
 5. Schengen delays (45–60 days) → National Day alternatives (Georgia, Armenia, Azerbaijan, Uzbekistan, Vietnam, Malaysia, Maldives, Seychelles) — "This or That" game
 6. Guggenheim Abu Dhabi opens 11 Dec (free 60+/under 18/UAE students) → parents' December visit — calendar-flip planner
 7. UAE winter early bookings up 25–30% (early = save 15–20%) — "My reaction to ___" escalating meter trend
+
+## 2026-10-28
+1. Bungee at Yas Bay opens 1 Nov (50 m, Tue–Sun 1–10pm, 16+, 40–105 kg) — tag-a-friend dare + poll
+2. St. Regis Dubai The Palm reopens 1 Nov after refurbishment — night car-window cinematic voiceover
+3. New Dubai speed limits on 5 roads from 1 Nov — "Up or down?" guessing game (driver's seat, parked)
+4. Free Halloween weekend in Dubai 30 Oct–1 Nov (Times Square Center, Wafi City, Stomping Grounds) — low-angle costume walk reveal (Ramalama trend)
+5. UAE fog season flight delays (GCAA warning) + airport tips — "Message from the Fog" overlay trend
+6. Louvre Abu Dhabi: Spices and Wonders (till 14 Feb 2027) + A Board Game Adventure (Ludo/Carrom) — "find your homeland" museum treasure hunt
+7. MOTN Festival 10th edition (28 Nov–3 Jan) + Etihad Rail Madinat Zayed & Liwa stations 30 Nov — two truths and a lie quiz
+Note: still avoiding Saudi/Riyadh content; avoided celebrity concerts (likeness risk).
