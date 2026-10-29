@@ -58,3 +58,13 @@ Owner then asked for the set in MALAYALAM (sent).
 6. Louvre Abu Dhabi: Spices and Wonders (till 14 Feb 2027) + A Board Game Adventure (Ludo/Carrom) — "find your homeland" museum treasure hunt
 7. MOTN Festival 10th edition (28 Nov–3 Jan) + Etihad Rail Madinat Zayed & Liwa stations 30 Nov — two truths and a lie quiz
 Note: still avoiding Saudi/Riyadh content; avoided celebrity concerts (likeness risk).
+
+## 2026-10-29
+1. Wild Wadi Waterpark reopens 1 Nov (30 rides, new Surf & Tacos) — "Things I wish I knew before going" numbered list
+2. New petal-like structures in Burj Lake (Dubai Fountain phase 2) — mystery "what is this?" comment-guess teaser
+3. Al Ruwayyah winter camping 1 Nov–30 Apr (600 camps, caravan plots, day-rental camps) + Adventure & Camping Exhibition Expo Al Dhaid till 1 Nov — "Pack with me" overhead flat-lay
+4. UAE flight capacity back (7.2M seats Oct, Manila/Athens restored, Europe flights returning) → family winter visit visa — on-screen WhatsApp chat story
+5. Dubai Parks & Resorts reopened (Riverland 14 attractions, Lamborghini sim, space bowling, T-Rex Glamping returns) — "Refuse to be limited to a single niche" trend
+6. HIGHLANDER Ras Al Khaimah shorter/steeper summit challenge in Nov (18+, 2 formats) — silent cinematic no-talking hike vlog
+7. Dubai Municipality SME opportunities (F&B, desert activities, 10 seasonal market spaces) at camping season → trade licence — "point at the text bubbles" explainer
+Note: still avoiding Saudi/Riyadh and conflict-related content.
