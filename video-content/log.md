@@ -68,3 +68,13 @@ Note: still avoiding Saudi/Riyadh content; avoided celebrity concerts (likeness 
 6. HIGHLANDER Ras Al Khaimah shorter/steeper summit challenge in Nov (18+, 2 formats) — silent cinematic no-talking hike vlog
 7. Dubai Municipality SME opportunities (F&B, desert activities, 10 seasonal market spaces) at camping season → trade licence — "point at the text bubbles" explainer
 Note: still avoiding Saudi/Riyadh and conflict-related content.
+
+## 2026-10-30
+1. Marsa Boulevard Season 3 opens 30 Oct (Dubai Creek, Botanical Garden open-fire dining, art walk) — "Loading 0%→100%" GRWM trend
+2. World Goa Day Sat 31 Oct, 5pm–1am, Jewel of the Creek — pretend phone-call skit
+3. Emirates Skywards Mile-A-Minute (non-UAE residents, book by 5 Nov, travel by 13 Dec, cap 7,200) — beat-synced quick-cut text ("What you waiting for?" style)
+4. Museum of the Future temporarily closed (since 1 Sept, reopens 2027) + Future Perfects jobs till 8 Nov — "Be OK" contrast trend
+5. 20 Dubai trade shows in November (GulfHost, Automechanika, Big 5 Global etc.) → business visa + company setup — screen-recording walkthrough
+6. Dubai Stand Up Paddle Hatta Dam 7–8 Nov (free, free shuttle, SUP yoga, kayaking) — rapid-fire 5-second FAQ
+7. UAE Flag Day Tue 3 Nov (not a holiday, 11am flag raising; Flag Garden TBC) → National Day visit visas — "Wrong answers only" comment-bait
+Note: skipped Air India Express Sharjah→Navi Mumbai shift (Navi Mumbai covered 27 Oct); still avoiding Saudi/conflict content. Unused: British Airways LHR–DXB resumes 3 Nov.
