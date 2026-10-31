@@ -78,3 +78,13 @@ Note: still avoiding Saudi/Riyadh and conflict-related content.
 6. Dubai Stand Up Paddle Hatta Dam 7–8 Nov (free, free shuttle, SUP yoga, kayaking) — rapid-fire 5-second FAQ
 7. UAE Flag Day Tue 3 Nov (not a holiday, 11am flag raising; Flag Garden TBC) → National Day visit visas — "Wrong answers only" comment-bait
 Note: skipped Air India Express Sharjah→Navi Mumbai shift (Navi Mumbai covered 27 Oct); still avoiding Saudi/conflict content. Unused: British Airways LHR–DXB resumes 3 Nov.
+
+## 2026-10-31
+1. DFC 30x30 free Fitness Villages (Kite Beach, Zabeel Park Gate 2, Al Warqa'a, Wellfit Palm West Beach; 31 Oct–29 Nov) — walking POV tour
+2. Global Village S31 new: Kids Passport stamps, standalone Sri Lanka pavilion, Bollywood Idol, Tokyo Rush coming — timed "how many stamps in 30 min" challenge vlog
+3. Sharjah International Book Fair 4–15 Nov (Expo Centre Sharjah, Oman guest of honour, 124 countries, free shuttles) — finger countdown talking head
+4. Dubai Design Week 3–8 Nov at d3 (festival free; Downtown Design ticketed; Metro + bus D03) — step-by-step transit POV how-to
+5. New Year trip entry rules for UAE travellers (Georgia insurance 30k lari, Thailand TDAC, Singapore e-arrival card in Arabic, UK ETA £20 vs visa for IN/PK/PH) — green-screen pointing at article
+6. Dubai T100 Triathlon Al Mamzar 13–15 Nov (free to watch, new Olympic distance) — street interview/vox pop
+7. Dubai International Boat Show 25–29 Nov, Dubai Harbour — 6-clip quick-cut "save the date" montage
+Note: still avoiding Saudi/conflict content. Unused: Oman free 14-day visa (country list unclear for IN/PK/PH), Kalba Sports Festival 6–14 Nov (details thin), Eurowings DXB–Germany 1 Nov, ADIPEC 2–5 Nov.
