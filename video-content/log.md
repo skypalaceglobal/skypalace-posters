@@ -88,3 +88,13 @@ Note: skipped Air India Express Sharjah→Navi Mumbai shift (Navi Mumbai covered
 6. Dubai T100 Triathlon Al Mamzar 13–15 Nov (free to watch, new Olympic distance) — street interview/vox pop
 7. Dubai International Boat Show 25–29 Nov, Dubai Harbour — 6-clip quick-cut "save the date" montage
 Note: still avoiding Saudi/conflict content. Unused: Oman free 14-day visa (country list unclear for IN/PK/PH), Kalba Sports Festival 6–14 Nov (details thin), Eurowings DXB–Germany 1 Nov, ADIPEC 2–5 Nov.
+
+## 2026-11-01
+1. Indian Embassy/Consulate advisory 26 Oct: banned in UAE baggage (paan, supari, khus-khus, gutkha, niswar) + EDE medicine permit (free, ~1 day) — "Allowed or not?" suitcase game
+2. Global Village Diwali 6–10 Nov (first baithak 6 Nov, games 7 Nov, 600-drone show 8 Nov 8pm, mela) — "Pick your night" 1-2-3 finger poll
+3. Kalba Beach (Sharjah) opens Dec 2026 (700 m, 11 outlets, kids' area, Blue Flag, first NYE fireworks) — "Small text zoom" trend + Maps zoom
+4. Dubai Run Sun 22 Nov (free, 5K/10K SZR, 6:30–9am, 307k in 2025) — before/after split screen
+5. DP World Tour Championship 12–15 Nov (Thu free w/ pre-registration, kids ≤17 free w/ ticket, Championship Village) — two-person skit
+6. Dubai AI Campus target 1,000+ AI firms / 5,000+ jobs by 2030 (500+ now, new 100k sq ft DIFC Zabeel building) → company setup — "Toggle on" trend news reveal
+7. New Nov openings: LPM-Sur-Mer (Jumeirah Beach Hotel, phase 1 Nov) + ROKA at Six Senses The Palm (20 Nov) — POV text story
+Note: still avoiding Saudi/conflict content + celebrity concerts (skipped Hans Zimmer 13 Nov). Unused: Frieze Abu Dhabi 19–22 Nov (inaugural, 84 galleries, tickets TBA), Lufthansa Group DXB return postponed to 25 Nov, Etihad Rail Al Sila/Al Dhannah/Al Mirfa stations 20 Dec, Dubai Yoga 29 Nov.
