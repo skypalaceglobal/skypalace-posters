@@ -98,3 +98,13 @@ Note: still avoiding Saudi/conflict content. Unused: Oman free 14-day visa (coun
 6. Dubai AI Campus target 1,000+ AI firms / 5,000+ jobs by 2030 (500+ now, new 100k sq ft DIFC Zabeel building) → company setup — "Toggle on" trend news reveal
 7. New Nov openings: LPM-Sur-Mer (Jumeirah Beach Hotel, phase 1 Nov) + ROKA at Six Senses The Palm (20 Nov) — POV text story
 Note: still avoiding Saudi/conflict content + celebrity concerts (skipped Hans Zimmer 13 Nov). Unused: Frieze Abu Dhabi 19–22 Nov (inaugural, 84 galleries, tickets TBA), Lufthansa Group DXB return postponed to 25 Nov, Etihad Rail Al Sila/Al Dhannah/Al Mirfa stations 20 Dec, Dubai Yoga 29 Nov.
+
+## 2026-11-02
+1. Visit Dubai tourist visa applications (single/multiple entry, 30/60 days, launching Nov; GDRFA still issues) + Dubai Access Club (invite-only, announced 1 Nov) — "Recharged" low→full battery trend
+2. Abu Dhabi November events (Aldar golf 5–8, Taste of AD 13–15 under-12 free, Frieze 19–22, ADIBS 19–22, Al Ain Hunting & Equestrian 25–29) — tier list (S/A/B)
+3. F1 Abu Dhabi GP 3–6 Dec overlaps National Day → family visit visa early — "pit-stop speed run" stopwatch document checklist
+4. Airline returns: BA LHR–DXB daily from 3 Nov, Lufthansa 25 Nov, ITA suspended to 30 Nov, SQ Dubai suspended to 28 Feb 2027 — red/yellow/green light game
+5. ISEA2026 Dubai 6–15 Nov (electronic art, free live programme with registration) — "explaining it to my mum" video-call skit
+6. Hatta Resorts Season 9 heritage trailers (1958 Coach, Route 1948, Caravan Hatta by Our Habitas) + Ultra Trail Dubai 27–29 Nov — "Then vs Now" vintage-filter transition
+7. Gulfood Manufacturing/GulfHost 3–5 Nov + EV World 2026 (inaugural) 10–12 Nov at DWTC → company setup — Expectation vs Reality
+Note: still avoiding Saudi/conflict content, celebrity events, and Diwali (covered twice). Unused: Mall of the Emirates new venues (Activate, SOCO Q4, La Maison Ani Nov), Fujairah fishing championship 7–10 Nov, Fujairah Gulf theatre festival 13–20 Nov, Mansour Festival 26–29 Nov, Noor Festival of Lights Souk Al Seef 7–8 Nov (free).
