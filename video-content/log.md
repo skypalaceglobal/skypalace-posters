@@ -108,3 +108,13 @@ Note: still avoiding Saudi/conflict content + celebrity concerts (skipped Hans Z
 6. Hatta Resorts Season 9 heritage trailers (1958 Coach, Route 1948, Caravan Hatta by Our Habitas) + Ultra Trail Dubai 27–29 Nov — "Then vs Now" vintage-filter transition
 7. Gulfood Manufacturing/GulfHost 3–5 Nov + EV World 2026 (inaugural) 10–12 Nov at DWTC → company setup — Expectation vs Reality
 Note: still avoiding Saudi/conflict content, celebrity events, and Diwali (covered twice). Unused: Mall of the Emirates new venues (Activate, SOCO Q4, La Maison Ani Nov), Fujairah fishing championship 7–10 Nov, Fujairah Gulf theatre festival 13–20 Nov, Mansour Festival 26–29 Nov, Noor Festival of Lights Souk Al Seef 7–8 Nov (free).
+
+## 2026-11-03
+1. Dubai's first Work From Park hub, Al Barsha Pond Park (launched 2 Nov; free outdoor desks, Letswork indoor 8am–8pm) → freelance licence — "Rate my office" score cards
+2. Flag Day 3 Nov + Dubai National Month 3 Nov–2 Dec + Flag Garden Umm Suqeim (free, till Jan, 11,000+ flags) + GV 1,000-drone flag show 8pm — hand-cover location-hop transitions
+3. Indian Embassy/Consulate medical insurance advisory 27 Oct (visitors: cashless + repatriation; residents check cover) — "Unpopular opinion" talking head (Hindi + Malayalam lines)
+4. Emirates A350 daily Dubai–Mauritius from 1 Nov (EK709 07:55→14:40, plus 2 A380s) → National Day trip — "If you need me, I'll be…" escapism meme
+5. Abu Dhabi E22 Abu Dhabi–Al Ain road closures/diversions/speed cuts 160→140/120 (31 Oct–30 Jan 2027) — green flag / red flag road-trip list
+6. Dubai Farmers' Market S6, Quranic Park Al Khawaneej (28 Nov–31 Jan, Sat & Sun, 52 farmers, 10 young-entrepreneur spots; registration open) → home business licence — phone reminder + Visitor vs Seller split
+7. HYROX Dubai 27–28 Nov, Dubai Exhibition Centre Expo City (spectators; under-12 free w/ registration) — "Housewife" duo-choreography trend (workout moves)
+Note: still avoiding Saudi/conflict content. Unused: Emirates eyeing Denver/Detroit/Philadelphia (not confirmed), Al Mamzar Corniche ladies-only 24/7 beach (not yet open), Byron Bathers free morning paddleboarding till 29 Nov, Austrian Airlines DXB return 12 Dec, petrol prices down ~5% in Nov.
