@@ -1,0 +1,68 @@
+<x-dc>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Shrikhand&family=Archivo+Black&family=Nunito:wght@700;800;900&display=swap');
+.p-root{width:1080px;height:1350px;position:relative;overflow:hidden;font-family:'Nunito','Inter','Noto Color Emoji',sans-serif;color:#1A0E06;box-sizing:border-box;background:radial-gradient(circle at 50% 45%,#FFC48A 0%,#FF9A4D 50%,#FF7A2B 100%)}
+.p-root *{box-sizing:border-box}
+.sh{font-family:'Shrikhand','Inter',sans-serif}
+.ab{font-family:'Archivo Black','Inter',sans-serif}
+.pill{position:absolute;background:#FFFFFF;color:#1A0E06;border-radius:18px;padding:10px 20px;font-weight:900;font-size:30px;white-space:nowrap;box-shadow:0 6px 0 rgba(120,40,0,.35)}
+.num{display:inline-block;width:40px;height:40px;border-radius:50%;background:#FF5A1F;color:#FFFFFF;text-align:center;line-height:40px;font-size:24px;margin-right:10px;vertical-align:middle}
+</style>
+<div class="p-root">
+  <div style="position:absolute;inset:0;background-image:radial-gradient(rgba(255,255,255,.28) 3px,transparent 3.5px);background-size:44px 44px"></div>
+
+  <div style="position:absolute;left:48px;top:50px;background:#1A0E06;color:#FFD9B8;border-radius:999px;padding:11px 24px;font-weight:900;font-size:26px;white-space:nowrap">🥪 TODAY: NATIONAL SANDWICH DAY</div>
+  <div style="position:absolute;right:48px;top:32px;background:#FFFFFF;border-radius:18px;padding:8px 12px;box-shadow:0 10px 30px rgba(0,0,0,.18)">
+    <img src="/_blob/2c1af597be802623e18d9425346d63b7" style="height:80px;display:block">
+  </div>
+
+  <div class="fit" style="position:absolute;left:48px;top:138px;width:984px;height:150px;overflow:hidden;display:flex;justify-content:center"><div class="sh" style="font-size:112px;line-height:1.3;white-space:nowrap;color:#FFFFFF;text-shadow:0 7px 0 #B33A00">Stack it up!</div></div>
+  <div class="fit" style="position:absolute;left:48px;top:288px;width:984px;height:54px;overflow:hidden;display:flex;justify-content:center"><div style="font-size:36px;font-weight:900;white-space:nowrap;line-height:54px;color:#3A1600">Your own sandwich shop, layer by layer 👇</div></div>
+
+  <!-- exploded sandwich -->
+  <svg width="380" height="380" viewBox="0 0 520 520" style="position:absolute;left:350px;top:372px" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="bun" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#F7B65A"/><stop offset="1" stop-color="#D9832B"/></linearGradient>
+    </defs>
+    <!-- top bun -->
+    <path d="M40 120 Q40 20 260 20 Q480 20 480 120 Z" fill="url(#bun)" stroke="#8A4A12" stroke-width="6" stroke-linejoin="round"/>
+    <rect x="40" y="112" width="440" height="22" rx="11" fill="#E9A14A" stroke="#8A4A12" stroke-width="6"/>
+    <g fill="#FFF3D6"><ellipse cx="170" cy="62" rx="10" ry="5" transform="rotate(-20 170 62)"/><ellipse cx="250" cy="48" rx="10" ry="5"/><ellipse cx="330" cy="62" rx="10" ry="5" transform="rotate(20 330 62)"/><ellipse cx="210" cy="88" rx="9" ry="4"/><ellipse cx="300" cy="90" rx="9" ry="4"/></g>
+    <!-- lettuce -->
+    <path d="M28 196 q22 -26 44 0 q22 -26 44 0 q22 -26 44 0 q22 -26 44 0 q22 -26 44 0 q22 -26 44 0 q22 -26 44 0 q22 -26 44 0 q22 -26 44 0 q22 -26 44 0 v14 H28z" fill="#5BD15B" stroke="#1F7A2B" stroke-width="6" stroke-linejoin="round"/>
+    <!-- tomato -->
+    <rect x="60" y="250" width="180" height="34" rx="17" fill="#FF3B3B" stroke="#9E1414" stroke-width="6"/>
+    <rect x="280" y="250" width="180" height="34" rx="17" fill="#FF3B3B" stroke="#9E1414" stroke-width="6"/>
+    <g fill="#FFD0C8"><circle cx="110" cy="267" r="5"/><circle cx="190" cy="267" r="5"/><circle cx="330" cy="267" r="5"/><circle cx="410" cy="267" r="5"/></g>
+    <!-- cheese -->
+    <path d="M40 326 H480 L452 380 L400 352 L330 384 L260 352 L190 384 L120 352 L68 380 Z" fill="#FFD43B" stroke="#B88400" stroke-width="6" stroke-linejoin="round"/>
+    <circle cx="160" cy="340" r="8" fill="#F2B800"/><circle cx="360" cy="340" r="8" fill="#F2B800"/>
+    <!-- bottom bun -->
+    <path d="M40 430 H480 V454 Q480 500 430 500 H90 Q40 500 40 454 Z" fill="url(#bun)" stroke="#8A4A12" stroke-width="6" stroke-linejoin="round"/>
+  </svg>
+
+  <div class="pill" style="left:40px;top:404px;transform:rotate(-3deg)"><span class="num">1</span>Trade name</div>
+  <div class="pill" style="right:40px;top:478px;transform:rotate(3deg)"><span class="num">2</span>Licence ✅</div>
+  <div class="pill" style="left:24px;top:566px;font-size:26px;transform:rotate(-2deg)"><span class="num">3</span>No approval needed</div>
+  <div class="pill" style="right:40px;top:630px;transform:rotate(2deg)"><span class="num">4</span>Your visa ✅</div>
+  <div class="pill" style="left:350px;top:788px;width:380px;text-align:center;transform:rotate(-2deg);background:#1A0E06;color:#FFD43B"><span class="num">5</span>Open your shop! 🎉</div>
+
+  <div class="fit" style="position:absolute;left:40px;top:900px;width:1000px;height:104px;overflow:hidden;display:flex;justify-content:center"><div class="ab" style="font-size:72px;line-height:1.4;white-space:nowrap;color:#FFFFFF;text-shadow:0 6px 0 #B33A00">TRADE LICENCE · SANDWICH SHOP</div></div>
+  <div class="fit" style="position:absolute;left:48px;top:1006px;width:984px;height:58px;overflow:hidden;display:flex;justify-content:center"><div style="font-size:37px;font-weight:900;line-height:58px;white-space:nowrap;color:#2A1000">We set up your sandwich shop licence &amp; visa — start to finish.</div></div>
+
+  <div style="position:absolute;left:150px;top:1090px;width:780px;height:82px;background:#1A0E06;border-radius:999px;display:flex;align-items:center;justify-content:center;box-shadow:0 7px 0 #B33A00">
+    <div class="fit" style="width:720px;height:58px;overflow:hidden;display:flex;justify-content:center"><div style="font-size:35px;font-weight:900;color:#FFD43B;white-space:nowrap;line-height:58px">💬 WhatsApp “STACK” to start your shop</div></div>
+  </div>
+
+  <div style="position:absolute;left:0;top:1200px;width:1080px;height:150px;background:#FFFFFF;color:#1A0E06;padding:20px 52px">
+    <div class="fit" style="width:976px;height:110px;overflow:hidden"><div style="font-size:27px;font-weight:800;line-height:1.55">
+      <div style="white-space:nowrap">📞 +971 52 792 3915 · +971 58 507 8786 · +971 52 646 2287</div>
+      <div style="white-space:nowrap">✉️ info@skypalacetourism.com · 🌐 www.skypalacetourism.com · 📷 @skypalaceglobal</div>
+    </div></div>
+  </div>
+</div>
+<script>
+(function(){function fit(){document.querySelectorAll('.fit').forEach(function(w){var c=w.firstElementChild;if(!c)return;var z=1;c.style.zoom=1;while((w.scrollWidth>w.clientWidth+1||w.scrollHeight>w.clientHeight+1)&&z>0.45){z-=0.02;c.style.zoom=z;}});}
+fit();if(document.fonts&&document.fonts.ready){document.fonts.ready.then(function(){fit();setTimeout(fit,400);});}window.addEventListener('load',function(){setTimeout(fit,100);setTimeout(fit,900);});})();
+</script>
+</x-dc>
