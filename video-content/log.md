@@ -118,3 +118,13 @@ Note: still avoiding Saudi/conflict content, celebrity events, and Diwali (cover
 6. Dubai Farmers' Market S6, Quranic Park Al Khawaneej (28 Nov–31 Jan, Sat & Sun, 52 farmers, 10 young-entrepreneur spots; registration open) → home business licence — phone reminder + Visitor vs Seller split
 7. HYROX Dubai 27–28 Nov, Dubai Exhibition Centre Expo City (spectators; under-12 free w/ registration) — "Housewife" duo-choreography trend (workout moves)
 Note: still avoiding Saudi/conflict content. Unused: Emirates eyeing Denver/Detroit/Philadelphia (not confirmed), Al Mamzar Corniche ladies-only 24/7 beach (not yet open), Byron Bathers free morning paddleboarding till 29 Nov, Austrian Airlines DXB return 12 Dec, petrol prices down ~5% in Nov.
+
+## 2026-11-04
+1. Amazing DXBpass (Dubai Holding Entertainment, WTM London 2 Nov: AED 399, 10 days, 2 theme parks + 1 city attraction + 1 flex, up to 50% off) — "Answer in one word" trend
+2. India Air Suvidha self-declaration form mandatory for all arrivals (free, official portal, within 24 hrs before arrival; GN 2 Nov) — one-person two-character "uncle vs agent" skit (Hindi + Malayalam lines)
+3. ETIAS: no launch date, 150+ fake sites, €20/3 yrs when live, official site only; IN/PK/PH still need Schengen visa — "Scam or legit?" thumbs game
+4. DSF 2026–27 (32nd, 4 Dec–17 Jan, first Beach Canteen at Nessnass Beach, raffles, Festival Nights) → family visit visas — overhead "Fan transition" outfit changes
+5. Abu Dhabi at WTM London: Guggenheim 11 Dec, Sphere Abu Dhabi by end-2029, Middle East's first Disney resort (Miral, Yas) — "Letter to 2029" time capsule
+6. Global Village Family Fun Pass Dh399 (was Dh595; 4 tickets + Wonder Pass 400 pts + 1 Carnaval ride) — "Receipt math" calculator breakdown
+7. NCM weather 4 Nov (35°C, showers possible east/north, humid nights, morning fog) → packing for visitors — TV weather-presenter parody
+Note: still avoiding Saudi/conflict content, celebrity events, Diwali. Unused: Mall of the Emirates The Hangout (Activate Oct 2026, SOCO Q4, Explorers Q1 2027, Magic Planet 2027), Riverland membership AED 59/month, SWISS/Eurowings DXB return 25 Nov, Sharjah Book Fair Thriller Festival 7–10 Nov, Wynn Al Marjan spring 2027 (avoid), UAE 5-vehicle cap from Jan 2027 (non-tourism).
