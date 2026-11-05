@@ -128,3 +128,13 @@ Note: still avoiding Saudi/conflict content. Unused: Emirates eyeing Denver/Detr
 6. Global Village Family Fun Pass Dh399 (was Dh595; 4 tickets + Wonder Pass 400 pts + 1 Carnaval ride) — "Receipt math" calculator breakdown
 7. NCM weather 4 Nov (35°C, showers possible east/north, humid nights, morning fog) → packing for visitors — TV weather-presenter parody
 Note: still avoiding Saudi/conflict content, celebrity events, Diwali. Unused: Mall of the Emirates The Hangout (Activate Oct 2026, SOCO Q4, Explorers Q1 2027, Magic Planet 2027), Riverland membership AED 59/month, SWISS/Eurowings DXB return 25 Nov, Sharjah Book Fair Thriller Festival 7–10 Nov, Wynn Al Marjan spring 2027 (avoid), UAE 5-vehicle cap from Jan 2027 (non-tourism).
+
+## 2026-11-05
+1. flydubai Dubai Stopover free 24-hr hotel (return bookings w/ Dubai connection, select at booking, room only, visa not included) — "I read the fine print" ✅/❌ talking head
+2. RTA + Al Etihad Payments next-gen nol-Jaywan cards (4 Nov; pilot Nov: transport, taxis, parking; smartphone activation; 120+ offers) — "Pump It" labelled metro mini vlog
+3. Sharjah at WTM London (3 Nov): Al Faya Retreat 5→20 units by Dec 2026, LUX* Al Bridi (Sharjah Safari), LUX* Khorfakkan, Kalba Rock Art Centre Q2 2027 — cinematic road trip + map pin-drops ("November Rain" style)
+4. Arabian Soul Fest, Zabeel Park 14–15 Nov (10 arenas, 100+ wellness/music experiences, kids' arenas, ticketed) — "If you're feeling stressed" calm trend
+5. Emirates daily Dubai–Helsinki A350 (EK167 08:15→14:30, EK168; only year-round UAE–Finland direct) + Schengen visa for IN/PK/PH — "Upside Down" camera-flip transition (Malayalam line)
+6. Airlines still suspended to Dubai: Cathay to 31 Jan, KLM to 27 Mar, Air Canada end-Mar, Finnair all winter, SQ 28 Feb, Virgin 2027; returning BA/LH/SWISS/Austrian (GN 2 Nov) — rapid-fire flip cue cards "Flying or not?"
+7. New Abu Dhabi November restaurants: Bayou (Yas Bay), EVA (Mamsha Al Saadiyat) — "You pick, I go" comment vote (Drop It Like It's Hot zoom)
+Note: still avoiding Saudi/conflict content, celebrity events, Diwali. Unverified/dropped: Oceanman Dubai 7–8 Nov, City Half Marathon DIFC 8 Nov. Unused: Dubai International Baja 5–8 Nov (Festival City), Emirates first US A350 (Orlando from 1 Nov), RTA 2 new Palm Jumeirah pedestrian bridges, Six Senses The Palm hotel Dec 2026, Skylight Mall Al Khail Rd 2027, DHE new waterpark "next couple of months", flydubai Sharjah city check-in.
