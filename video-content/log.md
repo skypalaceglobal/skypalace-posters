@@ -138,3 +138,13 @@ Note: still avoiding Saudi/conflict content, celebrity events, Diwali. Unused: M
 6. Airlines still suspended to Dubai: Cathay to 31 Jan, KLM to 27 Mar, Air Canada end-Mar, Finnair all winter, SQ 28 Feb, Virgin 2027; returning BA/LH/SWISS/Austrian (GN 2 Nov) — rapid-fire flip cue cards "Flying or not?"
 7. New Abu Dhabi November restaurants: Bayou (Yas Bay), EVA (Mamsha Al Saadiyat) — "You pick, I go" comment vote (Drop It Like It's Hot zoom)
 Note: still avoiding Saudi/conflict content, celebrity events, Diwali. Unverified/dropped: Oceanman Dubai 7–8 Nov, City Half Marathon DIFC 8 Nov. Unused: Dubai International Baja 5–8 Nov (Festival City), Emirates first US A350 (Orlando from 1 Nov), RTA 2 new Palm Jumeirah pedestrian bridges, Six Senses The Palm hotel Dec 2026, Skylight Mall Al Khail Rd 2027, DHE new waterpark "next couple of months", flydubai Sharjah city check-in.
+
+## 2026-11-06
+1. Global Village: buy ticket 6 Nov → free entry 7 Nov (3,100, Info Booth Gate of the World) — urgent talking head with stopwatch overlay
+2. Dubai Racing Carnival 2026/27 opens 6 Nov at Meydan (GA from Dh10, 16 meetings, new Paddock Garden food, DWC 27 Mar 2027) — "What does Dh10 get you?" challenge mini vlog
+3. Icons of Porsche 6th edition 21–22 Nov, new venue The Square Nad Al Sheba (30k+ fans/1,000+ cars, under-12 free w/ registration) — "by the numbers" stat-reveal countdown (Luminary)
+4. UAE micro-break trend (KT 4 Nov: 45% book 7–10 days ahead, staycations +30–35%; RAK/Fujairah/AD; Musandam/Salalah/Baku/Tbilisi/Almaty) — spin-the-wheel game
+5. flydubai City Check-in Sharjah Travel Shop (Tower 400 Al Soor, 9am–10pm, 24–6h before, AED 30, DXB T2/T3) — ❌ stop doing this / ✅ do this hack (Upside Down flip)
+6. Emirates Bio Farm Al Ain reopened for season (Sunday brunch) — "Guess where I am… it's not Europe" fake-out reveal (Angel of My Dreams)
+7. Outdoor cinema season: VOX Moonlight rooftop Galleria Mall Jumeirah reopened + Cinema Akil S4 at 25hours One Central — date-night GRWM loading 0→100% → arrival POV
+Note: still avoiding Saudi/conflict content (Etihad AUH–Riyadh/Dammam suspended to 19 Nov), celebrity events, Diwali. Dropped: Dubai Yoga 29 Nov (registration closed), Crazy Horse Paris 12 Nov (not family-friendly), Dubai Access Club perks (conflicting reports), UAE entry bar for DRC/Uganda/South Sudan travellers + Emirates US attestation (sensitive health). Unused: Six Senses The Palm opens 23 Nov (61 suites, first in UAE), Alserkal Avenue Farmers' Market Sat & Sun from 7 Nov, Tapasake returns 12 Nov, Cloud 22 Atlantis The Royal reopened, Splash 'n' Party Dubai Hills Park, Club 15 Al Quoz, Kinugawa reopened Jumeirah Marsa Al Arab, Casa 101 & L'Abysse at One&Only The Palm.
