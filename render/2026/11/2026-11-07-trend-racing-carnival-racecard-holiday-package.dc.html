@@ -1,0 +1,83 @@
+<x-dc>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Oswald:wght@500;700&family=Work+Sans:wght@600;700;800&display=swap');
+.p-root{width:1080px;height:1350px;position:relative;overflow:hidden;font-family:'Work Sans','Inter','Noto Color Emoji',sans-serif;color:#0B2E1C;box-sizing:border-box;background:radial-gradient(ellipse at 50% 20%,#2FBF71 0%,#14965A 45%,#0B6E40 100%)}
+.p-root *{box-sizing:border-box}
+.sf{font-family:'DM Serif Display','Georgia',serif;font-weight:400}
+.os{font-family:'Oswald','Inter',sans-serif}
+</style>
+<div class="p-root">
+  <!-- mowed turf stripes -->
+  <div style="position:absolute;inset:0;background:repeating-linear-gradient(90deg,rgba(255,255,255,.06) 0 90px,transparent 90px 180px)"></div>
+  <!-- white rail -->
+  <div style="position:absolute;left:0;top:560px;width:1080px;height:14px;background:#FFFFFF;opacity:.85"></div>
+
+  <div style="position:absolute;left:48px;top:48px;background:#FFD23F;color:#0B2E1C;border-radius:999px;padding:0 24px;height:58px;display:flex;align-items:center;box-shadow:0 5px 0 #0B2E1C">
+    <div class="fit" style="width:600px;height:50px;overflow:hidden;display:flex;align-items:center"><div style="font-size:26px;font-weight:800;white-space:nowrap;line-height:50px">🏇 DUBAI RACING CARNIVAL · SEASON IS ON</div></div>
+  </div>
+  <div style="position:absolute;right:48px;top:30px;background:#FFFFFF;border-radius:18px;padding:8px 12px;box-shadow:0 10px 30px rgba(0,0,0,.18)">
+    <img src="/_blob/2c1af597be802623e18d9425346d63b7" style="height:80px;display:block">
+  </div>
+
+  <div class="fit" style="position:absolute;left:48px;top:138px;width:984px;height:130px;overflow:hidden"><div class="sf" style="font-size:112px;line-height:130px;white-space:nowrap;color:#FFF8E7;text-shadow:0 6px 0 rgba(0,0,0,.18)">And they're off! 🏁</div></div>
+  <div class="fit" style="position:absolute;left:52px;top:272px;width:976px;height:52px;overflow:hidden"><div style="font-size:32px;font-weight:700;line-height:52px;white-space:nowrap;color:#FFFFFF">Race nights at Meydan, Nov – Mar. Today's race card 👇</div></div>
+
+  <!-- race card -->
+  <div style="position:absolute;left:70px;top:350px;width:940px;height:540px;background:#FFF8E7;border-radius:22px;transform:rotate(-1.6deg);box-shadow:0 22px 50px rgba(0,0,0,.30);overflow:hidden;border:5px solid #0B2E1C">
+    <div style="height:84px;background:#0B2E1C;display:flex;align-items:center;justify-content:space-between;padding:0 30px">
+      <div class="fit" style="width:600px;height:70px;overflow:hidden;display:flex;align-items:center"><div class="os" style="font-size:40px;font-weight:700;color:#FFD23F;white-space:nowrap;letter-spacing:1px">RACE 1 · THE FAMILY TRIP STAKES</div></div>
+      <div class="os" style="font-size:28px;font-weight:500;color:#FFF8E7;white-space:nowrap">MEYDAN · DXB</div>
+    </div>
+    <div style="display:flex;padding:12px 30px 4px 30px" class="os">
+      <div style="width:70px;font-size:22px;color:#4B6B5A;font-weight:500">NO.</div>
+      <div style="width:100px;font-size:22px;color:#4B6B5A;font-weight:500">SILKS</div>
+      <div style="flex:1;font-size:22px;color:#4B6B5A;font-weight:500">RUNNER</div>
+      <div style="width:150px;font-size:22px;color:#4B6B5A;font-weight:500;text-align:right">FORM</div>
+    </div>
+    <div id="rows"></div>
+  </div>
+
+  <!-- winner stamp -->
+  <div style="position:absolute;left:806px;top:768px;width:200px;height:200px;border-radius:50%;background:#FFD23F;border:6px solid #0B2E1C;transform:rotate(12deg);display:flex;align-items:center;justify-content:center;box-shadow:0 10px 0 rgba(0,0,0,.25)">
+    <div style="text-align:center"><div style="font-size:46px">🏆</div><div class="os" style="font-size:40px;font-weight:700;line-height:1;color:#0B2E1C">WINNER</div></div>
+  </div>
+
+  <!-- checkered finish strip -->
+  <div style="position:absolute;left:0;top:928px;width:1080px;height:28px;background:repeating-conic-gradient(#0B2E1C 0 25%,#FFFFFF 0 50%) 0 0/28px 28px"></div>
+
+  <div class="fit" style="position:absolute;left:40px;top:972px;width:1000px;height:104px;overflow:hidden;display:flex;justify-content:center"><div class="os" style="font-size:96px;font-weight:700;line-height:104px;white-space:nowrap;color:#FFD23F;text-shadow:0 5px 0 #0B2E1C">DUBAI HOLIDAY PACKAGE</div></div>
+  <div class="fit" style="position:absolute;left:48px;top:1074px;width:984px;height:50px;overflow:hidden;display:flex;justify-content:center"><div style="font-size:32px;font-weight:700;line-height:50px;white-space:nowrap;color:#FFFFFF">Visa, hotel &amp; tours for your family — we plan the whole trip.</div></div>
+
+  <div style="position:absolute;left:180px;top:1128px;width:720px;height:62px;background:#FFF8E7;border-radius:999px;display:flex;align-items:center;justify-content:center;box-shadow:0 5px 0 #0B2E1C">
+    <div class="fit" style="width:680px;height:50px;overflow:hidden;display:flex;justify-content:center"><div style="font-size:31px;font-weight:800;color:#0B2E1C;white-space:nowrap;line-height:50px">💬 WhatsApp “WINNER” for your family trip</div></div>
+  </div>
+
+  <div style="position:absolute;left:0;top:1206px;width:1080px;height:144px;background:#062A18;color:#FFFFFF;padding:18px 52px">
+    <div class="fit" style="width:976px;height:106px;overflow:hidden"><div style="font-size:27px;font-weight:700;line-height:1.55">
+      <div style="white-space:nowrap">📞 +971 52 792 3915 · +971 58 507 8786 · +971 52 646 2287</div>
+      <div style="white-space:nowrap">✉️ info@skypalacetourism.com · 🌐 www.skypalacetourism.com · 📷 @skypalaceglobal</div>
+    </div></div>
+  </div>
+</div>
+<script>
+(function(){
+var runners=[
+ ['1','#FFD23F','#E8112D','Desert Safari 🐪','1-2-1',false],
+ ['2','#FF5FA2','#FFFFFF','Global Village Nights 🎡','2-1-1',false],
+ ['3','#22C1C3','#FFD23F','Beach Days 🏖️','1-1-3',false],
+ ['4','#0B2E1C','#FFD23F','YOUR FAMILY ✈️','1-1-1',true]];
+var h='';
+runners.forEach(function(r){
+ var bg=r[5]?'background:#FFE79A;':'';
+ h+='<div style="display:flex;align-items:center;height:96px;padding:0 30px;border-top:2px dashed #C9BFA5;'+bg+'">'
+ +'<div class="os" style="width:70px;font-size:44px;font-weight:700;color:#0B2E1C">'+r[0]+'</div>'
+ +'<div style="width:100px"><svg width="70" height="62" viewBox="0 0 70 62"><path d="M14 8 L26 2 Q35 10 44 2 L56 8 L68 24 L56 30 L54 60 L16 60 L14 30 L2 24 Z" fill="'+r[1]+'" stroke="#0B2E1C" stroke-width="3"/><rect x="16" y="26" width="38" height="10" fill="'+r[2]+'"/></svg></div>'
+ +'<div class="fit" style="flex:1;height:70px;overflow:hidden;display:flex;align-items:center"><div style="font-size:'+(r[5]?42:38)+'px;font-weight:800;white-space:nowrap;color:#0B2E1C">'+r[3]+'</div></div>'
+ +'<div class="os" style="width:150px;text-align:right;font-size:32px;font-weight:500;color:#4B6B5A">'+r[4]+'</div></div>';
+});
+document.getElementById('rows').innerHTML=h;
+})();
+(function(){function fit(){document.querySelectorAll('.fit').forEach(function(w){var c=w.firstElementChild;if(!c)return;var z=1;c.style.zoom=1;while((w.scrollWidth>w.clientWidth+1||w.scrollHeight>w.clientHeight+1)&&z>0.45){z-=0.02;c.style.zoom=z;}});}
+fit();if(document.fonts&&document.fonts.ready){document.fonts.ready.then(function(){fit();setTimeout(fit,400);});}window.addEventListener('load',function(){setTimeout(fit,100);setTimeout(fit,900);});})();
+</script>
+</x-dc>
