@@ -158,3 +158,13 @@ Note: still avoiding Saudi/conflict content (Etihad AUH–Riyadh/Dammam suspende
 6. DXB Winter Festival 150+ vendors → trade/home-business licence for market stalls — story-time talking head
 7. New restaurants: Old Tbilisi JBR (flower terrace, Sunday dumpling masterclass) + SUPA Uzbek Culinary House Al Barsha → Georgia/Uzbekistan National Day trips — "Eat it or book it" taste test (Hindi line)
 Note: still avoiding Saudi/conflict content, celebrity events, Diwali/Noor. Dropped: Pakistan visit visa easing (Aug, old), Crazy Horse, Gymkhana (opened Sept), Oman hotel slump (conflict framing). Unused: Sacra bathhouse Jumeirah 1 (Nov), JA Sports & Shooting Club new premises (Nov), Caravan Hatta now open, Hakubo rooftop Palm West Beach, ICD Brookfield festive market 9–12 Dec, Etihad AUH–Asmara 7 Nov / Calgary 3 Nov, Air Arabia Sharjah–Gdansk 14 Dec / Frankfurt 15 Dec / Dusseldorf 16 Dec, Taste of Abu Dhabi 13–15 Nov.
+
+## 2026-11-08
+1. Fujairah east-coast fortnight: International Fishing Championship 7–10 Nov + Gulf Theatre Festival 13–20 Nov, Fujairah Creative Centre (GN/WAM 31 Oct) — dashcam road-trip timelapse with exit-sign pop-ups
+2. Cloud 22 Atlantis The Royal reopened after makeover (expanded deck, more viewpoints, 90 m pool 96 m up) — "Nicole Kidman" glow-up reveal (summer me vs November me)
+3. Club 15 Al Quoz (15,000 sqm: 7 padel, 3 basketball, rooftop gym, kids' area) — "Dame Hombro" shoulder-bounce squad trend
+4. Splash 'n' Party new branch Dubai Hills Park (kids' waterpark, warm pool for little ones) → grandparents' visit visa — role-reversal "kid interviews dad" (Hindi line)
+5. RAK Investment & Business Summit RAKIS 11–12 Nov, RAK Exhibition Centre → 5 questions before UAE company setup (no prices) — sticky-note wall peel-off
+6. Airport arrival advice: 3 hrs before, 4 hrs flydubai from DXB; EK First lounge T3 Concourse C closed (GN 7 Nov) — reverse-clock countdown hack (Malayalam line)
+7. Mohalla Canteen Al Nahda 2 (Mumbai street food + Irani café, 8am–11:45pm; Time Out 6 Nov) — silent ASMR "first bite" mini vlog (Hindi line)
+Note: still avoiding Saudi/conflict content, celebrity events, Diwali, BAPS (religion). Dropped: KT UAE VOA for Indians w/ UK/EU visa (2024 article, not new), Fujairah Equestrian (2025 dates), Tapasake (alcohol-led, no confirmed press release). Unused: Tapasake reopens 12 Nov + Sky Lounge, Six Senses The Palm (dates conflict: 23 Nov vs Dec), IndiGo Mumbai–Dar es Salaam daily from 20 Nov, Condor Frankfurt–Abu Dhabi daily (Etihad codeshare), Ajman Media Forum 18–19 Nov, RAK Energy Summit 25–27 Nov, Alto 54 floating SUP Saturdays 8am (Address Sky View), Lavang Downtown + Aurōm 0% drinks JW Marquis, The Mangroves Abu Dhabi bookings open 26 Nov, flydubai Dammam from 10 Nov (Saudi — avoid).
