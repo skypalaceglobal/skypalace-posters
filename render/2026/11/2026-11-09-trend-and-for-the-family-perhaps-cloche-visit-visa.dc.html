@@ -1,0 +1,87 @@
+<x-dc>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,800;0,900;1,800;1,900&family=Manrope:wght@600;700;800&display=swap');
+.p-root{width:1080px;height:1350px;position:relative;overflow:hidden;font-family:'Manrope','Inter','Noto Color Emoji',sans-serif;color:#FFF4DC;box-sizing:border-box;background:radial-gradient(ellipse at 50% 42%,#22B3A6 0%,#0E7C78 45%,#05454A 100%)}
+.p-root *{box-sizing:border-box}
+.pf{font-family:'Playfair Display','Georgia',serif}
+.fit{overflow:hidden}
+</style>
+<div class="p-root">
+  <!-- soft spotlight + sparkle dots -->
+  <div style="position:absolute;left:190px;top:330px;width:700px;height:700px;border-radius:50%;background:radial-gradient(circle,rgba(255,236,170,.28) 0%,rgba(255,236,170,0) 65%)"></div>
+
+  <div style="position:absolute;right:48px;top:34px;background:#FFFFFF;border-radius:18px;padding:8px 12px;box-shadow:0 10px 30px rgba(0,0,0,.25)">
+    <img src="/_blob/2c1af597be802623e18d9425346d63b7" style="height:80px;display:block">
+  </div>
+  <div class="fit" style="position:absolute;left:48px;top:58px;width:560px;height:56px"><div style="display:inline-block;font-size:26px;font-weight:800;letter-spacing:4px;line-height:52px;white-space:nowrap;color:#05454A;background:#F2C94C;border-radius:999px;padding:0 26px">🍽️ TONIGHT'S SPECIAL</div></div>
+
+  <div class="fit" style="position:absolute;left:48px;top:150px;width:984px;height:120px"><div class="pf" style="font-size:96px;font-weight:900;font-style:italic;line-height:120px;white-space:nowrap;color:#FFF4DC">And for the family,</div></div>
+  <div class="fit" style="position:absolute;left:48px;top:262px;width:984px;height:120px"><div class="pf" style="font-size:96px;font-weight:900;font-style:italic;line-height:120px;white-space:nowrap;color:#F2C94C">perhaps…</div></div>
+
+  <!-- cloche reveal illustration -->
+  <svg style="position:absolute;left:90px;top:360px" width="900" height="520" viewBox="0 0 900 520">
+    <defs>
+      <linearGradient id="silver" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFFFFF"/><stop offset=".45" stop-color="#D9E2E4"/><stop offset="1" stop-color="#8FA3A8"/></linearGradient>
+      <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFB86B"/><stop offset="1" stop-color="#FFE3A3"/></linearGradient>
+      <clipPath id="dome"><path d="M200 400 Q200 250 450 240 Q700 250 700 400 Z"/></clipPath>
+    </defs>
+    <!-- lifted lid -->
+    <g transform="translate(560 60) rotate(22)">
+      <path d="M0 150 Q0 20 170 10 Q340 20 340 150 Z" fill="url(#silver)" stroke="#05454A" stroke-width="5"/>
+      <rect x="-14" y="146" width="368" height="20" rx="10" fill="#C9D4D7" stroke="#05454A" stroke-width="5"/>
+      <circle cx="170" cy="0" r="22" fill="url(#silver)" stroke="#05454A" stroke-width="5"/>
+      <path d="M60 110 Q70 50 140 34" stroke="#FFFFFF" stroke-width="10" fill="none" stroke-linecap="round" opacity=".8"/>
+    </g>
+    <!-- sparkle lines from reveal -->
+    <g stroke="#F2C94C" stroke-width="7" stroke-linecap="round">
+      <path d="M450 205 L450 160"/><path d="M360 220 L330 182"/><path d="M540 220 L570 182"/><path d="M285 262 L245 236"/>
+    </g>
+    <!-- mini Dubai scene on plate -->
+    <g clip-path="url(#dome)">
+      <rect x="190" y="230" width="520" height="180" fill="url(#sky)"/>
+      <circle cx="560" cy="318" r="40" fill="#FF8A3D"/>
+      <!-- skyline -->
+      <g fill="#05454A">
+        <path d="M430 400 L438 300 L444 300 L446 252 L450 214 L454 252 L456 300 L462 300 L470 400 Z"/>
+        <rect x="370" y="330" width="34" height="70"/><rect x="408" y="350" width="20" height="50"/>
+        <rect x="480" y="320" width="30" height="80"/><rect x="514" y="345" width="26" height="55"/>
+        <path d="M300 400 L300 360 Q318 340 336 360 L336 400 Z"/>
+      </g>
+      <!-- dunes -->
+      <path d="M190 390 Q300 350 420 384 Q560 420 710 372 L710 420 L190 420 Z" fill="#F2B45A"/>
+      <path d="M190 405 Q330 380 470 400 Q600 418 710 396 L710 420 L190 420 Z" fill="#E59A3C"/>
+      <!-- palm -->
+      <g transform="translate(250 330)"><path d="M10 70 Q14 35 6 0" stroke="#05454A" stroke-width="7" fill="none"/><path d="M6 0 Q-30 -6 -44 14 M6 0 Q40 -10 54 8 M6 0 Q-14 -30 -36 -24 M6 0 Q28 -32 48 -22" stroke="#0E7C78" stroke-width="9" fill="none" stroke-linecap="round"/></g>
+      <!-- tiny plane -->
+      <g transform="translate(330 268) rotate(-10)"><path d="M0 8 L46 4 L58 0 L52 8 L58 16 L46 12 Z" fill="#FFFFFF" stroke="#05454A" stroke-width="2"/><path d="M20 6 L30 -10 L36 -10 L32 6 Z M22 10 L32 24 L38 24 L32 10 Z" fill="#FFFFFF" stroke="#05454A" stroke-width="2"/></g>
+    </g>
+    <!-- plate -->
+    <ellipse cx="450" cy="410" rx="330" ry="44" fill="#FFFFFF" stroke="#05454A" stroke-width="5"/>
+    <ellipse cx="450" cy="404" rx="270" ry="26" fill="#EEF5F4"/>
+    <path d="M200 400 Q200 250 450 240 Q700 250 700 400" fill="none" stroke="#05454A" stroke-width="4" stroke-dasharray="2 14" opacity=".35"/>
+    <!-- table line -->
+    <rect x="40" y="452" width="820" height="10" rx="5" fill="#F2C94C" opacity=".85"/>
+  </svg>
+  <!-- plate tag -->
+  <div style="position:absolute;left:96px;top:690px;transform:rotate(-6deg);background:#FFF4DC;border:4px solid #05454A;border-radius:14px;padding:6px 20px;box-shadow:0 6px 0 #05454A">
+    <div class="fit" style="width:300px;height:52px;display:flex;align-items:center;justify-content:center"><div class="pf" style="font-size:36px;font-weight:900;font-style:italic;white-space:nowrap;color:#05454A">A Dubai winter ✨</div></div>
+  </div>
+
+  <!-- service -->
+  <div class="fit" style="position:absolute;left:48px;top:886px;width:984px;height:118px;display:flex;justify-content:center"><div class="pf" style="font-size:104px;font-weight:900;line-height:118px;white-space:nowrap;color:#F2C94C;letter-spacing:2px">UAE VISIT VISA</div></div>
+  <div class="fit" style="position:absolute;left:60px;top:1004px;width:960px;height:56px;display:flex;justify-content:center"><div style="font-size:36px;font-weight:800;line-height:56px;white-space:nowrap;color:#FFF4DC">Bring them over this winter — we handle their visit visa.</div></div>
+
+  <div style="position:absolute;left:170px;top:1080px;width:740px;height:88px;background:#FFF4DC;border-radius:999px;box-shadow:0 7px 0 #F2C94C;display:flex;align-items:center;justify-content:center">
+    <div class="fit" style="width:690px;height:76px;display:flex;align-items:center;justify-content:center"><div style="font-size:36px;font-weight:800;white-space:nowrap;color:#05454A">💬 WhatsApp "PERHAPS" for their visa</div></div>
+  </div>
+
+  <div style="position:absolute;left:0;top:1196px;width:1080px;height:154px;background:#FFF4DC;padding:20px 48px;border-top:5px solid #F2C94C">
+    <div class="fit" style="width:984px;height:52px;display:flex;justify-content:center"><div style="font-size:36px;font-weight:800;white-space:nowrap;line-height:52px;color:#05454A">📞 +971 52 792 3915 · +971 58 507 8786 · +971 52 646 2287</div></div>
+    <div class="fit" style="width:984px;height:46px;margin-top:10px;display:flex;justify-content:center"><div style="font-size:28px;font-weight:700;white-space:nowrap;line-height:46px;color:#0E7C78">🌐 www.skypalacetourism.com · ✉️ info@skypalacetourism.com · @skypalaceglobal</div></div>
+  </div>
+</div>
+<script>
+(function(){function fit(){document.querySelectorAll('.fit').forEach(function(w){var c=w.firstElementChild;if(!c)return;var z=1;c.style.zoom=1;while((w.scrollWidth>w.clientWidth+1||w.scrollHeight>w.clientHeight+1)&&z>0.45){z-=0.02;c.style.zoom=z;}});}
+fit();if(document.fonts&&document.fonts.ready){document.fonts.ready.then(function(){fit();setTimeout(fit,400);});}window.addEventListener('load',function(){setTimeout(fit,100);setTimeout(fit,900);});})();
+</script>
+</x-dc>
