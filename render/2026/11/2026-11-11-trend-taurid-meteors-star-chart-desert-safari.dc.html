@@ -1,0 +1,83 @@
+<x-dc>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Gloock&family=Hanken+Grotesk:wght@600;800;900&family=Red+Hat+Mono:wght@700&display=swap');
+.p-root{width:1080px;height:1350px;position:relative;overflow:hidden;font-family:'Hanken Grotesk','Inter','Noto Color Emoji',sans-serif;color:#FFFFFF;box-sizing:border-box;background:radial-gradient(ellipse at 50% 38%,#B57BFF 0%,#7A2FD8 42%,#45108F 78%,#2E0A63 100%)}
+.p-root *{box-sizing:border-box}
+.gl{font-family:'Gloock','Georgia',serif;font-weight:400}
+.mono{font-family:'Red Hat Mono','Courier New',monospace;font-weight:700}
+.fit{overflow:hidden}
+</style>
+<div class="p-root">
+  <div id="sky" style="position:absolute;inset:0"></div>
+  <div style="position:absolute;right:48px;top:34px;background:#FFFFFF;border-radius:18px;padding:8px 12px;box-shadow:0 10px 30px rgba(0,0,0,.3)">
+    <img src="/_blob/2c1af597be802623e18d9425346d63b7" style="height:80px;display:block">
+  </div>
+  <div class="fit" style="position:absolute;left:48px;top:58px;width:640px;height:56px"><div style="display:inline-block;font-size:25px;font-weight:900;letter-spacing:2px;line-height:52px;white-space:nowrap;color:#2E0A63;background:#FFD66B;border-radius:999px;padding:0 24px">☄️ METEOR SHOWER PEAKS · 11–12 NOV</div></div>
+  <div class="fit" style="position:absolute;left:48px;top:138px;width:984px;height:130px"><div class="gl" style="font-size:112px;line-height:130px;white-space:nowrap;color:#FFFFFF;text-shadow:0 0 30px rgba(255,214,107,.55)">Make a wish, Dubai ✨</div></div>
+
+  <!-- planisphere star chart -->
+  <div style="position:absolute;left:210px;top:292px;width:660px;height:660px;border-radius:50%;background:#FFF4DA;box-shadow:0 26px 50px rgba(20,0,50,.45)">
+    <svg width="660" height="660" viewBox="0 0 660 660" style="position:absolute;left:0;top:0">
+      <g id="ticks"></g>
+      <text x="330" y="52" text-anchor="middle" font-family="Red Hat Mono,monospace" font-weight="700" font-size="20" fill="#45108F" textLength="250" lengthAdjust="spacingAndGlyphs">UAE NIGHT SKY · NOVEMBER</text>
+      <defs>
+        <clipPath id="disc"><circle cx="330" cy="330" r="268"/></clipPath>
+        <linearGradient id="tail" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFD66B" stop-opacity="0"/><stop offset="1" stop-color="#FFF6D6"/></linearGradient>
+        <radialGradient id="inner" cx="50%" cy="40%" r="60%"><stop offset="0" stop-color="#5A1BB5"/><stop offset="1" stop-color="#260755"/></radialGradient>
+      </defs>
+      <circle cx="330" cy="330" r="268" fill="url(#inner)" stroke="#45108F" stroke-width="6"/>
+      <g clip-path="url(#disc)">
+        <g id="stars"></g>
+        <!-- constellation -->
+        <g stroke="#FFD66B" stroke-width="2.5" stroke-opacity=".8" fill="none">
+          <polyline points="180,190 230,215 270,200 300,240 350,232 395,262"/>
+          <polyline points="300,240 285,290"/>
+        </g>
+        <g fill="#FFF6D6">
+          <circle cx="180" cy="190" r="5"/><circle cx="230" cy="215" r="4"/><circle cx="270" cy="200" r="6"/><circle cx="300" cy="240" r="5"/><circle cx="350" cy="232" r="7"/><circle cx="395" cy="262" r="4"/><circle cx="285" cy="290" r="4"/>
+        </g>
+        <text x="212" y="170" font-family="Red Hat Mono,monospace" font-weight="700" font-size="20" fill="#FFD66B" letter-spacing="3">TAURUS</text>
+        <!-- shooting stars -->
+        <path d="M150 300 L455 395" stroke="url(#tail)" stroke-width="14" stroke-linecap="round"/>
+        <circle cx="458" cy="396" r="14" fill="#FFFFFF"/><circle cx="458" cy="396" r="30" fill="#FFD66B" opacity=".35"/>
+        <path d="M400 150 L520 200" stroke="url(#tail)" stroke-width="7" stroke-linecap="round"/>
+        <circle cx="521" cy="200" r="7" fill="#FFFFFF"/>
+        <!-- dunes -->
+        <path d="M40 520 Q170 430 300 490 T620 470 L640 640 L20 640 Z" fill="#FF9E5E"/>
+        <path d="M20 560 Q190 500 340 545 T660 540 L660 660 L0 660 Z" fill="#E86A3A"/>
+        <!-- camp -->
+        <path d="M250 520 L290 470 L330 520 Z" fill="#FFF4DA" stroke="#45108F" stroke-width="4"/>
+        <path d="M290 470 L290 520" stroke="#45108F" stroke-width="3"/>
+        <path d="M360 520 q8 -26 14 -6 q6 -18 10 6 z" fill="#FFD66B"/>
+        <!-- camel -->
+        <path d="M420 515 q10 -30 28 -18 q10 -16 24 0 q8 -2 10 -18 l8 2 q0 22 -12 30 l0 24 l-5 0 l0 -18 l-30 0 l0 18 l-5 0 z" fill="#45108F"/>
+      </g>
+    </svg>
+  </div>
+  <!-- note tag -->
+  <div style="position:absolute;left:808px;top:770px;width:226px;transform:rotate(7deg);background:#FFD66B;border-radius:14px;padding:14px 16px;box-shadow:0 10px 20px rgba(20,0,50,.35)">
+    <div class="fit" style="width:194px;height:96px"><div style="font-size:28px;font-weight:900;line-height:32px;color:#2E0A63">Best seat:<br>the desert 🏜️</div></div>
+  </div>
+
+  <div class="fit" style="position:absolute;left:48px;top:972px;width:984px;height:100px;display:flex;justify-content:center"><div class="gl" style="font-size:88px;line-height:100px;white-space:nowrap;color:#FFD66B">DUBAI DESERT SAFARI</div></div>
+  <div class="fit" style="position:absolute;left:60px;top:1066px;width:960px;height:58px;display:flex;justify-content:center"><div style="font-size:35px;font-weight:800;line-height:58px;white-space:nowrap;color:#FFFFFF">Stars over the dunes — we arrange pick-up, safari & camp.</div></div>
+  <div style="position:absolute;left:150px;top:1124px;width:780px;height:72px;background:#FFFFFF;border-radius:999px;box-shadow:0 6px 0 #2E0A63;display:flex;align-items:center;justify-content:center">
+    <div class="fit" style="width:730px;height:64px;display:flex;align-items:center;justify-content:center"><div style="font-size:34px;font-weight:900;white-space:nowrap;color:#45108F">💬 WhatsApp "WISH" to book your safari</div></div>
+  </div>
+  <div style="position:absolute;left:0;top:1212px;width:1080px;height:138px;background:#FFF4DA;padding:14px 48px">
+    <div class="fit" style="width:984px;height:52px;display:flex;justify-content:center"><div style="font-size:36px;font-weight:900;white-space:nowrap;line-height:52px;color:#2E0A63">📞 +971 52 792 3915 · +971 58 507 8786 · +971 52 646 2287</div></div>
+    <div class="fit" style="width:984px;height:46px;margin-top:8px;display:flex;justify-content:center"><div style="font-size:28px;font-weight:800;white-space:nowrap;line-height:46px;color:#7A2FD8">🌐 www.skypalacetourism.com · ✉️ info@skypalacetourism.com · @skypalaceglobal</div></div>
+  </div>
+</div>
+<script>
+(function(){
+var s=document.getElementById('sky'),h='';var r=7;function rnd(){r=(r*9301+49297)%233280;return r/233280;}
+for(var i=0;i<70;i++){var x=rnd()*1080,y=rnd()*1200,z=1+rnd()*3;h+='<div style="position:absolute;left:'+x+'px;top:'+y+'px;width:'+z+'px;height:'+z+'px;border-radius:50%;background:#fff;opacity:'+(0.35+rnd()*0.5)+'"></div>';}
+s.innerHTML=h;
+var st=document.getElementById('stars'),sh='';for(var j=0;j<60;j++){sh+='<circle cx="'+(70+rnd()*520)+'" cy="'+(70+rnd()*400)+'" r="'+(0.8+rnd()*2.2)+'" fill="#ffffff" opacity="'+(0.4+rnd()*0.6)+'"/>';}st.innerHTML=sh;
+var t=document.getElementById('ticks'),th='';for(var k=0;k<72;k++){if(k>=48&&k<=60)continue;var a=k*5*Math.PI/180,r1=300,r2=(k%6==0)?282:290;th+='<line x1="'+(330+Math.cos(a)*r1)+'" y1="'+(330+Math.sin(a)*r1)+'" x2="'+(330+Math.cos(a)*r2)+'" y2="'+(330+Math.sin(a)*r2)+'" stroke="#45108F" stroke-width="'+(k%6==0?4:2)+'"/>';}t.innerHTML=th;
+})();
+(function(){function fit(){document.querySelectorAll(".fit").forEach(function(w){var c=w.firstElementChild;if(!c)return;var z=1;c.style.zoom=1;while((w.scrollWidth>w.clientWidth+1||w.scrollHeight>w.clientHeight+1)&&z>0.45){z-=0.02;c.style.zoom=z;}});}
+fit();if(document.fonts&&document.fonts.ready){document.fonts.ready.then(function(){fit();setTimeout(fit,400);});}window.addEventListener("load",function(){setTimeout(fit,100);setTimeout(fit,900);});})();
+</script>
+</x-dc>
