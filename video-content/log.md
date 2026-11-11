@@ -188,3 +188,13 @@ Note: still avoiding Saudi/conflict content, celebrity events, Diwali, nightlife
 6. Burj2Burj half marathon returns Sun 24 Jan 2027, tickets on sale (Time Out 9 Nov) → January visitors — street interview/vox pop "21 km yes or no?"
 7. Six Senses The Palm opens Mon 23 Nov (61 suites + 172 residences; Time Out 9 Nov) → parents' visit visa + stay — reply-to-DM customer Q&A (Hindi line)
 Note: still avoiding Saudi/conflict content, celebrity events, Diwali. No prices used. Dropped: KT overstay-fine waiver (Mar/Sep article, status unconfirmed), DHE new waterpark (14 Oct, no date), National Day long weekend (not confirmed), GN Global Village search (no new Nov item). Unused: Saadiyat Grove AD (TimeOut Market 16 kitchens, Momofuku etc., no dates), Solena by Raspoutine DIFC, Saona voco Palm (Dec), Emaar South Golf Club opened Q4, MOTN Abu Dhabi Corniche leg 9 Dec–3 Jan, Abu Dhabi International Boat Show 19–22 Nov ADNEC, The Hangout MoE phased.
+
+## 2026-11-11
+1. Public Art Abu Dhabi Biennial reaches Abu Dhabi 15 Nov (MiZa, Souq Al Mina, Hidd Al Saadiyat, Saadiyat Cultural District; till 15 Feb 2027; The National 18 Oct) — "Stomp to reveal" location hop
+2. Maritime Heritage Festival 5th edition, AD Corniche 20–29 Nov, 4–11pm (Visit Abu Dhabi) — "Time: then and now" before/after
+3. NOMAD Abu Dhabi 2nd edition, Old AD Airport Terminal 1, 18–22 Nov (The National 8 Sep, TTN) — fake airport-announcement skit
+4. Zerzura Sunsets, Mleiha National Park Sat 14 Nov (TTW 19 Oct, secondary) — rapid-fire flash-cut recap (Milkshake)
+5. Pakistani passport: Qatar 30-day VOA conditions (Discover Qatar hotel + insurance), Oman 14 Oct deal official passports only, Maldives/Nepal VOA, Sri Lanka ETA (GN 3 Nov) — myth vs fact cards (Urdu/Hindi line)
+6. Abu Dhabi International Boat Show 8th, ADNEC 19–22 Nov (GN 1 Nov) — "Would you rather" comment game
+7. UAE anti-commercial fraud law: 24h removal / 24h supplier notice / 48h public recall (Time Out 9 Nov, MoET) → business setup — phone-notification story (Malayalam line)
+Note: still avoiding Saudi/conflict content, celebrity events (Hans Zimmer 13 Nov, Tarkan 27 Nov), nightlife (BREDx, Ushuaia, Crazy Horse). Unused: Al Ain Book Festival (2026 dates unverified), Traditional Handicrafts Festival (ended 11 Nov), Maritime/AD Biennial ticketing TBC, Café KIRA / Hey Tiger / Black Horse / Bake My Day (Nov, no exact dates), Talise full-moon yoga 24 Nov, Emaar South Golf Club, Gold Apple Beauty Bingo MCC till 19 Nov.
