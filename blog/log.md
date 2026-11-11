@@ -10,3 +10,4 @@
 - 2026-11-08 | How to Sponsor Family or Friends on a UAE Visit Visa: Eligibility and Documents | UAE visit visas | auto
 - 2026-11-09 | How to Get Employee Visas for Your UAE Company: Step-by-Step Guide | Business setup | auto
 - 2026-11-10 | How to Change Visa Status Inside the UAE: Visit Visa to Residence Visa Without Exit | UAE visit visas | auto
+- 2026-11-11 | RAKEZ Company Setup: Step-by-Step Guide to Starting a Business in Ras Al Khaimah Free Zone | Business setup | auto
