@@ -198,3 +198,13 @@ Note: still avoiding Saudi/conflict content, celebrity events, Diwali. No prices
 6. Abu Dhabi International Boat Show 8th, ADNEC 19–22 Nov (GN 1 Nov) — "Would you rather" comment game
 7. UAE anti-commercial fraud law: 24h removal / 24h supplier notice / 48h public recall (Time Out 9 Nov, MoET) → business setup — phone-notification story (Malayalam line)
 Note: still avoiding Saudi/conflict content, celebrity events (Hans Zimmer 13 Nov, Tarkan 27 Nov), nightlife (BREDx, Ushuaia, Crazy Horse). Unused: Al Ain Book Festival (2026 dates unverified), Traditional Handicrafts Festival (ended 11 Nov), Maritime/AD Biennial ticketing TBC, Café KIRA / Hey Tiger / Black Horse / Bake My Day (Nov, no exact dates), Talise full-moon yoga 24 Nov, Emaar South Golf Club, Gold Apple Beauty Bingo MCC till 19 Nov.
+
+## 2026-11-12
+1. Dubai Metro Red Line Route 2020 extension to Al Maktoum Intl Airport City (3 km, 2 new stations, Dh2bn, services 2031; approved 10 Nov; GN/Time Out) — green-screen over news screenshot
+2. Dubai winter officially 21 Dec–20 Mar (~24.6°C, 8+ hrs sun, sunset 5:34pm; Time Out 11 Nov) — countdown ("39 days")
+3. NCM unsettled weather/rain through Thu 12 Nov + safety tips (KT 11 Nov) — POV "first time seeing rain in Dubai" (November Rain)
+4. UAE Balloon Museum 7 announced (UAE Hot Air Balloon Team + Saga Balloon Museum Japan, 7th worldwide; location/date TBA; The National 11 Nov) — "3 things you didn't know"
+5. National Day 2–3 Dec on official calendar, final days not yet announced (2025 announced 17 Nov) — myth vs fact
+6. Upcoming UAE hotels: Zuhha Resort World Islands Q4, Kimpton Business Bay, Mondrian AD, The Mangroves AD LXR bookings 26 Nov (What's On 4 Nov) — This or That
+7. Wist new beachside café Jumeirah Beach 1 (Time Out weekend pick 13–15 Nov) — mini vlog with rating
+Note: still avoiding Saudi/conflict content, celebrity events, nightlife (Crazy Horse/Tapasake/BREDx/Adriatique), religious festivals. Skipped Musandam Winter 2026–27 (75 events; Hormuz proximity), airline resumptions (SWISS sources conflict), Sharjah Film Platform (ended 8 Nov), Dubai Garden Glow day park (no 2026 date). Unused: Dubai Dh9.59bn community services plan to 2040, Sacra Jumeirah 1 (Nov), Bake My Day The Grand Nad Al Sheba, KT 7 Nov US/Schengen delays → Kyrgyzstan interest.
