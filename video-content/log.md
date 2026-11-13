@@ -208,3 +208,14 @@ Note: still avoiding Saudi/conflict content, celebrity events (Hans Zimmer 13 No
 6. Upcoming UAE hotels: Zuhha Resort World Islands Q4, Kimpton Business Bay, Mondrian AD, The Mangroves AD LXR bookings 26 Nov (What's On 4 Nov) — This or That
 7. Wist new beachside café Jumeirah Beach 1 (Time Out weekend pick 13–15 Nov) — mini vlog with rating
 Note: still avoiding Saudi/conflict content, celebrity events, nightlife (Crazy Horse/Tapasake/BREDx/Adriatique), religious festivals. Skipped Musandam Winter 2026–27 (75 events; Hormuz proximity), airline resumptions (SWISS sources conflict), Sharjah Film Platform (ended 8 Nov), Dubai Garden Glow day park (no 2026 date). Unused: Dubai Dh9.59bn community services plan to 2040, Sacra Jumeirah 1 (Nov), Bake My Day The Grand Nad Al Sheba, KT 7 Nov US/Schengen delays → Kyrgyzstan interest.
+
+
+## 2026-11-13
+1. DSF 32nd (4 Dec–17 Jan): NEW DSF Light Show Sat 5 Dec 7:30–10:30pm over JBR–Bluewaters bay + free candlelight concert DSF x Hatta Wadi Hub 2 Dec (GN 10 Nov) — Google Earth zoom-drop
+2. FlyJinnah to Abu Dhabi: KHI from 28 Nov, ISB + LHE from 1 Dec, A320 5x weekly (AeroRoutes 2 Nov, schedule filing) — talking-head news update (Urdu/Hindi line)
+3. Dubai Municipality "Name Your Park": 35 new parks, 11 areas, Dh2,500 x 35 winners, deadline 9 Dec (KT/Time Out 11 Nov) — street interview / vox pop
+4. National Day 2–3 Dec + 4 Dec leave = 5 days; unusual picks Northern Lights Finland/Iceland + Seychelles; Schengen slow (KT 11 Nov; KT also listed Uganda/Rwanda gorillas — removed via correction msg, UAE Ebola entry restrictions since Jun 2026) — "Everyone goes to X, meanwhile Y" contrast
+5. Al Baleed Culinary Arts Festival, Al Baleed Resort Salalah, till end Nov (Oman Observer 5 Nov) — place-name-held-back reveal
+6. Emaar South Golf Club opened Q4 2026 near DWC (18 holes, driving range, par-3; Time Out 10 Nov) → business visitors/setup — silent face-caption trend
+7. Emirates electric Premium Economy seat w/ full-height privacy screen on latest A350s (Emirates 3 Sep; Time Out 10 Nov) — green-screen "rate it 1–10"
+Note: still avoiding Saudi/conflict content, celebrity events (Steve Aoki/Rashid Al Majed DSF, Trevor Noah), nightlife (Adriatique, ANOTR, BRED). Dropped: Khorfakkan Cultural Festival 6th ed (dates/hours unclear), Kyrgyzstan (visa facts unverified), PH–UAE OFW skills talks (nothing concrete). Unused: DMW digital recruitment system Dubai (8 Nov), Dar Al Funoon Saadiyat (source blocked).
