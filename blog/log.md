@@ -12,3 +12,4 @@
 - 2026-11-10 | How to Change Visa Status Inside the UAE: Visit Visa to Residence Visa Without Exit | UAE visit visas | auto
 - 2026-11-11 | RAKEZ Company Setup: Step-by-Step Guide to Starting a Business in Ras Al Khaimah Free Zone | Business setup | auto
 - 2026-11-12 | 30-Day vs 60-Day UAE Tourist Visa: Single or Multiple Entry – Which Should You Choose? | UAE visit visas | auto
+- 2026-11-13 | Freelance Visa in UAE: How to Get a Freelance Permit and Work for Yourself in Dubai | Business setup | auto
