@@ -219,3 +219,14 @@ Note: still avoiding Saudi/conflict content, celebrity events, nightlife (Crazy 
 6. Emaar South Golf Club opened Q4 2026 near DWC (18 holes, driving range, par-3; Time Out 10 Nov) → business visitors/setup — silent face-caption trend
 7. Emirates electric Premium Economy seat w/ full-height privacy screen on latest A350s (Emirates 3 Sep; Time Out 10 Nov) — green-screen "rate it 1–10"
 Note: still avoiding Saudi/conflict content, celebrity events (Steve Aoki/Rashid Al Majed DSF, Trevor Noah), nightlife (Adriatique, ANOTR, BRED). Dropped: Khorfakkan Cultural Festival 6th ed (dates/hours unclear), Kyrgyzstan (visa facts unverified), PH–UAE OFW skills talks (nothing concrete). Unused: DMW digital recruitment system Dubai (8 Nov), Dar Al Funoon Saadiyat (source blocked).
+
+
+## 2026-11-14
+1. Down to Earth 2026, Jameel Arts Centre/Jaddaf Waterfront Sculpture Park (14–15 Nov, free w/ registration, swap shop, farmers' market) — "What to bring" checklist
+2. DIFC Art Nights Gate Village 12–15 Nov (free, 600+ artworks; What's On 13 Nov) — POV walking tour ("Not every angel" text trend)
+3. World Art Dubai 12th ed., DWTC Za'abeel Halls 2&3, 19–22 Nov 1–9pm, ticketed, Family Day 22 Nov, Emirati Artists Pavilion — "3 things you didn't know"
+4. DXB Smart Gates vs GDRFA Red Carpet (T3, ~3.4 sec, eligible travellers; GDRFA Smart Gate inquiry) → parents' visit visa — reply-to-comment customer Q&A (Hindi + Malayalam lines)
+5. GCC unified tourist visa NOT live, no 2026 rollout (Time Out 12 Nov) — green-screen over news screenshot (myth-busting)
+6. New openings (Time Out 13 Nov): BOSS café MoE, Bake My Day dine-in Kokoro/The Grand Mall Nad Al Sheba, Cocolily Emirati chocolate The 77 Valley Al Khawaneej — timestamp food-crawl mini vlog
+7. JA Sports & Shooting Club free DFC sports till 15 Nov (golf/tennis/padel/football/cricket/shooting, book by phone) — 5-sports-in-60-min stopwatch challenge
+Note: still avoiding Saudi/conflict content (ongoing regional war coverage, flight disruptions), celebrity events, nightlife (Crazy Horse, Adriatique, Tapasake, brunches). Dropped: Madar Mall Sharjah (2028), Kalba sky retreat (Jun article, no date), TTW Asian visa-free list (Oct, covered 9 Nov), property-owner visa change (unverified date). Unused: Dubai Safari Park Wild Weekend 14–15 Nov, Big 5 Global 23–26 Nov.
