@@ -230,3 +230,13 @@ Note: still avoiding Saudi/conflict content, celebrity events (Steve Aoki/Rashid
 6. New openings (Time Out 13 Nov): BOSS café MoE, Bake My Day dine-in Kokoro/The Grand Mall Nad Al Sheba, Cocolily Emirati chocolate The 77 Valley Al Khawaneej — timestamp food-crawl mini vlog
 7. JA Sports & Shooting Club free DFC sports till 15 Nov (golf/tennis/padel/football/cricket/shooting, book by phone) — 5-sports-in-60-min stopwatch challenge
 Note: still avoiding Saudi/conflict content (ongoing regional war coverage, flight disruptions), celebrity events, nightlife (Crazy Horse, Adriatique, Tapasake, brunches). Dropped: Madar Mall Sharjah (2028), Kalba sky retreat (Jun article, no date), TTW Asian visa-free list (Oct, covered 9 Nov), property-owner visa change (unverified date). Unused: Dubai Safari Park Wild Weekend 14–15 Nov, Big 5 Global 23–26 Nov.
+
+## 2026-11-15
+1. Sharjah beaches reopened after oil-spill clean-up + RAK 7 beaches 11 Nov, UAQ still closed (The National 12 Nov; follow-up to 9 Nov closures) — on-location "Update part 2" news report
+2. Passports could be redundant in 5 years (Dubai Airports CEO, The National 10 Nov) + Emirates 200+ biometric cameras T3, Click and Travel 12–15 sec — agree/disagree comment-poll talking head
+3. Emirates 48h (US$10) / 96h (US$49) transit visa, Emirates tickets via Dubai, apply 4+ working days before (emirates.com) — notes-app screen-record explainer (Hindi line)
+4. 421 Family Day, 421 Arts Campus Mina Zayed, Sat 21 Nov 10am–2pm, free w/ registration (ADR 14 Nov) — fridge sticky-note "save for later" planner
+5. Souk of Little Creators, Souk Madinat, last day 15 Nov 4:30–8:30pm, free ages 5–11 (GN 13 Nov) — kid-POV camera takeover
+6. Ibn Battuta Mall 6 themed courts + 38 new spots by end-2027 (Roxy Cinemas, Hopa Loompa; Time Out 12 Oct) — countdown 6→1
+7. Boxpark After Hours free glow-in-the-dark Zumba Sun 7:30pm, FITZE app registration (GN 13 Nov) — WhatsApp voice-note two-friend skit (Malayalam line)
+Note: still avoiding Saudi/conflict content, celebrity events (Real Madrid World/Roberto Carlos, BRED), nightlife (Ushuaia/Adriatique, Novemberfest). Unused: Good Energy Club Terra Expo City 15 Nov (too early for same-day post), Lufthansa/SWISS/Eurowings return 25 Nov (airline returns covered), Winter City Expo 11–31 Dec (Disney+ themes; Christmas markets covered 7 Nov), Slice45 Alserkal + Polene MoE.
