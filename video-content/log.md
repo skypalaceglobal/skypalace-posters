@@ -240,3 +240,13 @@ Note: still avoiding Saudi/conflict content (ongoing regional war coverage, flig
 6. Ibn Battuta Mall 6 themed courts + 38 new spots by end-2027 (Roxy Cinemas, Hopa Loompa; Time Out 12 Oct) — countdown 6→1
 7. Boxpark After Hours free glow-in-the-dark Zumba Sun 7:30pm, FITZE app registration (GN 13 Nov) — WhatsApp voice-note two-friend skit (Malayalam line)
 Note: still avoiding Saudi/conflict content, celebrity events (Real Madrid World/Roberto Carlos, BRED), nightlife (Ushuaia/Adriatique, Novemberfest). Unused: Good Energy Club Terra Expo City 15 Nov (too early for same-day post), Lufthansa/SWISS/Eurowings return 25 Nov (airline returns covered), Winter City Expo 11–31 Dec (Disney+ themes; Christmas markets covered 7 Nov), Slice45 Alserkal + Polene MoE.
+
+## 2026-11-16
+1. National Day holiday confirmed 13 Nov: public 2–4 Dec (back 7 Dec, FAHR), private 2–3 Dec (MoHRE; Time Out) → family visit visas — split-screen govt vs private two-character skit (Hindi line)
+2. DP World ILT20 Season 5, 22 Nov–20 Dec (6 teams, 34 matches, final Dubai Intl Stadium; ilt20.ae/GN) → dads' visit visa for final — "3 things you didn't know" finger count (Hindi/Urdu line)
+3. Art Here 2026: Confluences, Louvre Abu Dhabi, opened 11 Nov–28 Feb 2027 (6 artists, Indian Ocean migration; Reena Kallat Kerala letter-songs; The National 11 Nov) — story-time museum mini vlog (Malayalam line)
+4. Cool week: lows 17°C some areas, light rain 16–19 Nov (NCM via KT/GN) — POV text-overlay story ("November" audio)
+5. Big 5 Global 23–26 Nov DWTC (ticketed, 21+, hours) → business visa + company setup — clipboard checklist
+6. History Otherwise: Women Modernists from the Arab World, Concrete Alserkal 15–22 Nov (Barjeel collection; The National 13 Nov) — myth vs fact flip cards
+7. Floating SUP Alto 54, Address Sky View, Saturdays 8am (What's On 4 Nov; no price) — first-try challenge
+Note: still avoiding Saudi/conflict content (ongoing war coverage, flight disruptions), celebrity events, nightlife (Crazy Horse, Bâoli, Tattu, Hakubo, Tapasake). Dropped: Liwa Festival (only 2025–26 edition dates found), Daily Pakistan UAE work permits (non-tourism, secondary), DHE new waterpark (still no date), Sacra (no date). Unused: Vantage Point 13 SAF till 29 Nov, Children's Biennale till 6 Dec, Paul Guiragossian 100 Years (Bassam Freiha AF till 17 Jan), East Village Pizzeria Meadows Village, Hey Tiger Motor City.
