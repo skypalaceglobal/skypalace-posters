@@ -250,3 +250,14 @@ Note: still avoiding Saudi/conflict content, celebrity events (Real Madrid World
 6. History Otherwise: Women Modernists from the Arab World, Concrete Alserkal 15–22 Nov (Barjeel collection; The National 13 Nov) — myth vs fact flip cards
 7. Floating SUP Alto 54, Address Sky View, Saturdays 8am (What's On 4 Nov; no price) — first-try challenge
 Note: still avoiding Saudi/conflict content (ongoing war coverage, flight disruptions), celebrity events, nightlife (Crazy Horse, Bâoli, Tattu, Hakubo, Tapasake). Dropped: Liwa Festival (only 2025–26 edition dates found), Daily Pakistan UAE work permits (non-tourism, secondary), DHE new waterpark (still no date), Sacra (no date). Unused: Vantage Point 13 SAF till 29 Nov, Children's Biennale till 6 Dec, Paul Guiragossian 100 Years (Bassam Freiha AF till 17 Jan), East Village Pizzeria Meadows Village, Hey Tiger Motor City.
+
+
+## 2026-11-17
+1. SpiceJet DXB check-in suspended from 12 Nov, Dubai flights cancelled (Mumbai/Delhi/Amritsar 16 Nov; The Week/LFAL 13 Nov) — phone screen-record 4-step checklist (Hindi + Malayalam lines)
+2. Schengen 2025 from UAE: ~298,000 applications (+14.6%), ~71,200 refused (EC data via GN 16 Nov) — overhead red-pen dummy-application review
+3. UAE first National Early Childhood Week to 22 Nov (300+ activities, 130 entities, kids ≤8; 1 km family run 20 Nov AD/Dubai/Ajman/RAK; ecweek.ae; GN 16 Nov) — sports-commentator parody voice-over
+4. Dubai Future Week 18–21 Nov, Emirates Towers + Museum of the Future (10,000+ participants, 8 concepts; public access unconfirmed) → business setup — "call from future self 2030" two-character skit
+5. Dubai 2-year property-owner visa: no Dh750k minimum for sole owners, joint Dh400k each, Dubai title deed, medical insurance, family sponsorship (KT 29 Apr; Time Out 12 Nov) — YES/NO paddle game
+6. Abu Dhabi 12 new parks (7 Al Riyadh City, 5 Shakhbout City, 135k+ sqm, 3,129 trees; DMT, GN 16 Nov) — green-screen amenities bingo
+7. 17th Al Ain Book Festival 17–23 Nov, Al Ain Square, free (What's On AD 16 Nov) → Al Ain day trip — POV kid-reaction skit
+Note: still avoiding Saudi/conflict content (ongoing war coverage, Saudi flight cancellations), celebrity events, nightlife (Jetty Lounge, Black Horse pub, Jazz Bar, 1927). Unused: Dubai Access Club perks update (5-yr multiple-entry visa, du SIM, Dh2,000 credit; Time Out 12 Nov — Access Club covered 2 Nov), Peacock Alley festive tea 19 Nov–7 Jan, CASSETTE SIDE B till 22 Nov, RAK private jet terminal/eVTOL (2027), Al Dhaid Bridge (opening on 15 Nov not confirmed), Lufthansa/SWISS/Eurowings 25 Nov (covered).
