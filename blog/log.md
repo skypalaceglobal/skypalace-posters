@@ -17,3 +17,4 @@
 - 2026-11-15 | How to Set Up a Mainland Company in Dubai: Step-by-Step Guide for Expats | Business setup | auto
 - 2026-11-16 | Dubai Desert Safari Guide for First-Timers: What to Expect, What to Wear and Tips | Dubai and UAE tourism | auto
 - 2026-11-17 | UAE Transit Visa Guide: 48-Hour and 96-Hour Stopover Visa Rules and Documents | UAE visit visas | auto
+- 2026-11-18 | Trade Licence Renewal in Dubai: Documents, Steps and How to Avoid Late Fines | Business setup | auto
