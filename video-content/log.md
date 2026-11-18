@@ -261,3 +261,13 @@ Note: still avoiding Saudi/conflict content (ongoing war coverage, flight disrup
 6. Abu Dhabi 12 new parks (7 Al Riyadh City, 5 Shakhbout City, 135k+ sqm, 3,129 trees; DMT, GN 16 Nov) — green-screen amenities bingo
 7. 17th Al Ain Book Festival 17–23 Nov, Al Ain Square, free (What's On AD 16 Nov) → Al Ain day trip — POV kid-reaction skit
 Note: still avoiding Saudi/conflict content (ongoing war coverage, Saudi flight cancellations), celebrity events, nightlife (Jetty Lounge, Black Horse pub, Jazz Bar, 1927). Unused: Dubai Access Club perks update (5-yr multiple-entry visa, du SIM, Dh2,000 credit; Time Out 12 Nov — Access Club covered 2 Nov), Peacock Alley festive tea 19 Nov–7 Jan, CASSETTE SIDE B till 22 Nov, RAK private jet terminal/eVTOL (2027), Al Dhaid Bridge (opening on 15 Nov not confirmed), Lufthansa/SWISS/Eurowings 25 Nov (covered).
+
+## 2026-11-18
+1. UAE 2027 holidays: 12 leave days = 37 days off (New Year 10, Eid Al Fitr 9, Eid Al Adha 9, National Day 9; Islamic dates provisional; GN 18 Nov) — "5 stages of…" trend
+2. India proposes free e-tourist visas for all 11 ASEAN incl. Philippines (India–ASEAN Summit Manila 17 Nov; proposal only, no date; Newswire) — sticky-note status tracker PROPOSED/APPROVED/LIVE (Taglish)
+3. OFW Pass ~1M issued, airlines incl. Emirates/Etihad verify digitally, no printed pass at check-in (GN 13 Nov) → Christmas trip home — appointment-timestamps mini vlog
+4. Emirates Skywards × SHARE by MAF points link (2 SHARE = 1 Mile, 2,000–150,000/transaction; Emirates 10 Nov) + Skysurfers kids' miles valid till 21 (11 Nov) — supermarket-aisle walk-and-talk
+5. Kricket Dubai opens 19 Nov, Vida Emirates Hills, noon–1am (The National 17 Nov) — opening-day first-look beat-cut walk-in (Hindi line)
+6. Emirates winter +31 weekly flights (Cape Town, Nairobi, Phuket, Hanoi, Manila, Tokyo Narita, Accra) + stopover perks (free 24-hr fare hold; Emirates 10 Nov) — spin-the-globe finger-stop game
+7. Saadiyat Grove AD coming soon: Time Out Market AD (16 kitchens, 711 seats), Momofuku, Alain Ducasse Café, Gigi Caffè, dates TBA (The National 17 Nov) — emoji-clue guessing game
+Note: still avoiding Saudi/conflict content, celebrity events, nightlife, religious festivals (skipped Christmas tree lightings). Dropped: Manar Al Ain free entry (2025 article), Yas Kids Go Free (ended Oct), Business Today 12 Nov overstay/traffic-fine claims (unverified, no official source), Fazaa free family membership (Mar 2026, not fresh). Unused: Peacock Alley festive tea from 19 Nov, L'Abysse/Casea 101 One&Only The Palm, True Slice Sharjah, CASSETTE "SIDE B" Al Quoz till 22 Nov.
