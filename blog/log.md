@@ -18,3 +18,4 @@
 - 2026-11-16 | Dubai Desert Safari Guide for First-Timers: What to Expect, What to Wear and Tips | Dubai and UAE tourism | auto
 - 2026-11-17 | UAE Transit Visa Guide: 48-Hour and 96-Hour Stopover Visa Rules and Documents | UAE visit visas | auto
 - 2026-11-18 | Trade Licence Renewal in Dubai: Documents, Steps and How to Avoid Late Fines | Business setup | auto
+- 2026-11-19 | UAE Visit Visa Overstay Rules: Grace Period, Fines and What to Do If You Overstay | UAE visit visas | auto
