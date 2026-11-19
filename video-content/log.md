@@ -271,3 +271,14 @@ Note: still avoiding Saudi/conflict content (ongoing war coverage, Saudi flight 
 6. Emirates winter +31 weekly flights (Cape Town, Nairobi, Phuket, Hanoi, Manila, Tokyo Narita, Accra) + stopover perks (free 24-hr fare hold; Emirates 10 Nov) — spin-the-globe finger-stop game
 7. Saadiyat Grove AD coming soon: Time Out Market AD (16 kitchens, 711 seats), Momofuku, Alain Ducasse Café, Gigi Caffè, dates TBA (The National 17 Nov) — emoji-clue guessing game
 Note: still avoiding Saudi/conflict content, celebrity events, nightlife, religious festivals (skipped Christmas tree lightings). Dropped: Manar Al Ain free entry (2025 article), Yas Kids Go Free (ended Oct), Business Today 12 Nov overstay/traffic-fine claims (unverified, no official source), Fazaa free family membership (Mar 2026, not fresh). Unused: Peacock Alley festive tea from 19 Nov, L'Abysse/Casea 101 One&Only The Palm, True Slice Sharjah, CASSETTE "SIDE B" Al Quoz till 22 Nov.
+
+
+## 2026-11-19
+1. Sharjah 55th Eid Al Etihad celebrations 19 Nov–3 Dec (Al Kashisha Park Al Rahmaniya main, Al Seyouh, Al Nouf 1; Sharjah National Park/Al Layyah Canal from 28 Nov; Sharjah24 17 Nov) — calendar-swipe planner
+2. Sharjah East Coast National Day stops: Kalba 20–22 Nov (maritime parade 22), Wadi Al Helo 21 Nov, Khorfakkan Amphitheatre "Pride of the Nation" operetta 26–27 Nov (Sharjah24) — car-dashboard 3-stop itinerary (Malayalam line)
+3. RAK Night Market 2nd ed., RAK Exhibition Centre, Fri–Sun, 20 Nov–13 Dec + 8–31 Jan, ~500 entrepreneurs, 100k+ expected (GN 18 Nov) — "Tomorrow I'm going…" teaser + part 2
+4. Global Village fireworks Fri & Sat 9pm from 20–21 Nov + new Falcon Stage live music Thu–Sun 7:30–10pm (GN 18 Nov) — fake chat-screen reveal (Hindi line)
+5. Dubai NYE 2027: first Cirque du Soleil live show in Emaar countdown 11:25pm, free public Downtown viewing, roads close 4pm (GN 18 Nov) — BREAKING news-desk talking head
+6. Dubai City AI Agent approved 18 Nov at Dubai Future Week (+93 Gov Resources AI agents, NxtBI; public launch TBA; GN 18 Nov) → business setup — explain-like-I'm-5 props
+7. Souk Al Freej winter market S5 (Dubai Municipality; 50 free stalls; Nad Al Sheba Rose Garden 11–20 Dec, Al Barsha Pond Park 25 Dec–3 Jan, Al Warqa Park 8–17 Jan; 4:30–10pm; The National 7 Nov) → home-business licence — day-in-the-life skit (Malayalam line)
+Note: still avoiding Saudi/conflict content (war coverage, Saudi flight cancellations), celebrity events, nightlife. Unused: Peacock Alley festive tea, CASSETTE SIDE B till 22 Nov, Sharjah Al Madam Fili Fort 20–21 Nov, Mleiha/Al Dhaid/Dibba National Day events 26–28 Nov.
