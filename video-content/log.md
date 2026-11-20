@@ -282,3 +282,13 @@ Note: still avoiding Saudi/conflict content, celebrity events, nightlife, religi
 6. Dubai City AI Agent approved 18 Nov at Dubai Future Week (+93 Gov Resources AI agents, NxtBI; public launch TBA; GN 18 Nov) → business setup — explain-like-I'm-5 props
 7. Souk Al Freej winter market S5 (Dubai Municipality; 50 free stalls; Nad Al Sheba Rose Garden 11–20 Dec, Al Barsha Pond Park 25 Dec–3 Jan, Al Warqa Park 8–17 Jan; 4:30–10pm; The National 7 Nov) → home-business licence — day-in-the-life skit (Malayalam line)
 Note: still avoiding Saudi/conflict content (war coverage, Saudi flight cancellations), celebrity events, nightlife. Unused: Peacock Alley festive tea, CASSETTE SIDE B till 22 Nov, Sharjah Al Madam Fili Fort 20–21 Nov, Mleiha/Al Dhaid/Dibba National Day events 26–28 Nov.
+
+## 2026-11-20
+1. Emirates Dh400m DXB T3 lounge revamp (temp First lounge Concourse B opened 18 Nov; 8 DXB lounges; new First lounges w/ golf simulators/VIP suites mid–late 2027; The National 19 Nov) — 3-number card reveal talking head (Luminary)
+2. International Children's Day 20 Nov: Terra Expo City "Celebrate the Union" family day (under-12 free) vs Black Bunny Al Quoz Dh1 arcade (GN 19 Nov) — split-screen A/B poll
+3. Pluma Circus (Cirque du Liban) last weekend, Dubai Festival City tent, till 22 Nov (KT 12 Nov) — 3-2-1 finger countdown
+4. Leonids over (peak 17–18 Nov) → Beaver Moon 24 Nov; Al Qudra/Mleiha/Al Quaa night spots (GN 15 Nov & 2 Nov) — silent cinematic text-only night clip (November Rain)
+5. Oman 28-day VOA for UAE residents only with approved Emirates ID profession (Wego May 2026, verify ROP) → National Day road trip — reply-to-comment Q&A (Hindi + Malayalam lines, Toggle on)
+6. White Friday sales live (Under Armour, adidas, Giordano, HomeBox, Foot Locker; GN 20 Nov) → parents' visit — shop-with-me mini vlog (Pump It)
+7. Free "Pilates with your pup", The Duck Hook Dubai Hills Golf Club, Sat 21 Nov 9–10am, book ahead (GN 19 Nov) — dog-POV voice-over skit (Upside Down)
+Note: still avoiding Saudi/conflict content, celebrity events (Trevor Noah, Anuv Jain, UFC Doha), nightlife (Playa Pacha, Miss Lily's, Tapasake). CORRECTION: Lufthansa Group extended Dubai suspensions to March (The National 12 Nov), so earlier "Lufthansa back 25 Nov" lines are outdated. Dropped: Jebel Jais reopening (Feb 2026 article), KT camping spots (2025), Qatar long weekend (2024 PR), Expo City Al Wasl season (2025–26 dates), MWO Dubai Dec closures (2025 dates). Unused: Giulia by the Beach reopens 20 Nov Be Beach, Mizuno Fitness Challenge SALT 21 Nov, Dubai Creek Mile Meydan 20 Nov, Bhutan/Nepal visa-free for Indians (TTW 15 Oct), Maldives IMUGA 96h, Four Seasons Hatta Tour (guests only).
