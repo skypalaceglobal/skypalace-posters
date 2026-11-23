@@ -22,3 +22,4 @@
 - 2026-11-20 | UAE Corporate Tax Registration for New Companies: Steps, Documents and Deadlines | Business setup | auto
 - 2026-11-21 | UAE Visa on Arrival for Indians: Who Is Eligible, Documents and How to Apply | UAE visit visas | auto
 - 2026-11-22 | UAE VAT Registration for New Businesses: Who Must Register, Documents and Steps | Business setup | auto
+- 2026-11-23 | UAE Visit Visa for Pakistani Citizens: Documents, Steps and Travel Tips | UAE visit visas | auto
