@@ -322,3 +322,14 @@ Note: first sent ideas 3–4 as celebrity concerts (Atif Aslam/Bollywood by the 
 6. Cove House pop-up, The Terrace InterContinental Residences AD, 26–30 Nov 4:30–11:30pm free (Emirati designers, oud, local chefs; What's On AD 23 Nov) — POV text-overlay
 7. Al Durra at Heritage Village AD (Mon–Thu 9am–9pm free) + Falcon Show Umm Al Emarat Park daily 4:30–5:30pm (ticketed) → parents' weekday plan — myth vs fact flip cards (Hindi line)
 Note: still avoiding Saudi/conflict content, celebrity events (Kanye AD, Alexandra Eala Mubadala Open 2027), nightlife. Dropped: Al Ain Hunting & Equestrian Exhibition 25–29 Nov (in 2 Nov log), Dubai Run record 310k (covered 22 Nov preview), Moon/Pleiades/Jupiter sky (astro covered 20 Nov), Etihad Gothenburg 17 Dec (Aug/Sep release, not fresh), DSF Beach Canteen/drone shows (covered). Unused: DSF Sunset Sessions free Sun concerts Nessnass 13–27 Dec, MOTB The Square 8–24 Jan, Dubai Chefs' Favourites from 7 Dec, Mad Cat Comedy, A Padel Winter Pass.
+
+
+## 2026-11-25
+1. flydubai 5 winter routes: Atyrau 18 Dec (T3), Aktau 19 Dec (T3), Tyumen 19 Dec (T2), Shymkent resumes 25 Dec, Samarkand resumes 29 Dec (flydubai/KT 20 Nov) — 5→1 map countdown
+2. LEGOLAND Dubai National Day 27 Nov–6 Dec (LEGO-brick UAE flag, 5 hidden UAE maps trail, MINILAND flag QR draw; LEGOLAND Hotel kids eat free 30 Nov–2 Dec; GN 24 Nov) — kids'-eye POV mini vlog
+3. Al Fahidi Fort (1787) reopened as interactive museum, 6 galleries, 700+ items (The National 20 Nov) — "then vs now" heritage walk (Malayalam line)
+4. Philippine Embassy AD + Consulate Dubai closed 2–4 Dec for National Day, hotlines open (GN 24 Nov) — Taglish checklist PSA
+5. "I feel like I haven't done much this year" year-in-review trend + Dubai 6.97M visitors Jan–Aug 2026 (The National 1 Nov) — month-by-month recap
+6. 2027 reopenings: Burj Al Arab ~Oct 2027, Armani Hotel Dubai Mar 2027, Lamcy Plaza → "The Plaza" H1 2027 (GN 27 Oct) — green-screen tier list (Hindi line)
+7. Dubai Parks & Resorts National Day: Riverland fireworks + 9:30pm laser 2–3 Dec, Green Planet stilt walkers/falcons 2–3 Dec, Wild Wadi DJ/bubble show 2–5 Dec, T-REX Glamping up to 20% off (GN 24 Nov) — "Dear Santa" wishlist trend (format also used 23 Nov)
+Note: still avoiding Saudi/conflict content (US Mission security alert 24 Nov), tragedies (RAK bus crash 24 Nov), celebrity events, nightlife. Idea 3 hook corrected after sending ("older than US Constitution" → "from 1787"). Dropped: Time Out Dubai pages (blocked), WAM 9.68M visitors 10 months (page blank, unverified), Etihad Calgary (launched 3 Nov, Jan release), Dubai Access Club (covered 2 Nov), Garden Glow day park (date unclear). Unused: Winter City × Disney+ Expo City 11–31 Dec (character likeness risk), Masdar free kickboxing 28 Nov, Muscat Nights from 1 Jan.
